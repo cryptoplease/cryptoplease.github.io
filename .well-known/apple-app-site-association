@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "US38KFXH3P.com.pleasecrypto.flutter" ],
+             "components": [
+               {
+                  "/": "/",
+                  "?": { "data": "*" }
+               }
+             ]
+           }
+       ]
+   }
+}
