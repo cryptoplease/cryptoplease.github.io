@@ -1,15 +1,1 @@
-{
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "US38KFXH3P.com.pleasecrypto.flutter" ],
-             "components": [
-               {
-                  "/": "/",
-                  "?": { "data": "*" }
-               }
-             ]
-           }
-       ]
-   }
-}
+{"applinks":{"apps":[],"details":[{"appID":"US38KFXH3P.com.pleasecrypto.flutter","paths":["NOT /_/*","/*"]}]}}
