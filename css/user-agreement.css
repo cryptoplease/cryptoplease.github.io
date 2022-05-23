@@ -1,0 +1,64 @@
+/* screen - user-agreement */
+
+.user-agreement {
+  background-color: var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 6505px;
+  min-width: 605px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.user-agreement .frame-IkfRax {
+  background-color: transparent;
+  height: 66px;
+  left: calc(50.00% - 30px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.user-agreement .terms-of-use-august-IkfRax {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 258px);
+  letter-spacing: -0.27px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 277px;
+  width: 526px;
+}
+
+.user-agreement .group-1-IkfRax {
+  background-color: transparent;
+  height: 36px;
+  left: calc(50.00% - 88px);
+  position: absolute;
+  top: 199px;
+  width: 173px;
+}
+
+.user-agreement .your-recovery-phrase-90vuOg {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 86px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}

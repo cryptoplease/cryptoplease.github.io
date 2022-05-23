@@ -1,0 +1,116 @@
+/* screen - thankyou */
+
+.thankyou {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 699px;
+  min-width: 326px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.thankyou .rectangle-0yhV0P {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.thankyou .group-1-0yhV0P {
+  background-color: transparent;
+  height: 36px;
+  left: calc(50.00% - 91px);
+  position: absolute;
+  top: 199px;
+  width: 183px;
+}
+
+.thankyou .your-recovery-phrase-tRxEyW {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.thankyou .frame-0yhV0P {
+  background-color: transparent;
+  height: 66px;
+  left: calc(50.00% - 30px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.thankyou .next-btn-0yhV0P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: calc(50.00% - 53px);
+  pointer-events: auto;
+  position: absolute;
+  top: 359px;
+  transition: all 0.2s ease;
+  width: 111px;
+}
+
+.thankyou .next-btn-0yhV0P:hover {
+  transform: scale(1.1);
+}
+
+.thankyou .rectangle-nZIBr2 {
+  background-color: #facf48;
+  border-radius: 30.5px;
+  height: 46px;
+  left: calc(50.00% - 56px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 111px;
+}
+
+.thankyou .next-nZIBr2 {
+  background-color: transparent;
+  color: #262626;
+  font-family: var(--font-family-din-bold);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 46px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 90px;
+}
+
+.thankyou .please-write-down-th-0yhV0P {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 140px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 267px;
+  width: 281px;
+}

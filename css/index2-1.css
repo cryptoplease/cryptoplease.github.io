@@ -1,0 +1,627 @@
+/* screen - index2 */
+
+.index2 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1901px;
+  min-width: 700px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index2 .rectangle-Fu1StG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.index2 .horizontal-white-gold-1-Fu1StG {
+  background-color: transparent;
+  height: 47px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 259px;
+}
+
+.index2 .group-1-Fu1StG {
+  background-color: transparent;
+  height: 132px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 137px;
+  width: 618px;
+}
+
+.index2 .please-write-down-th-J8zqCE {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 198px);
+  letter-spacing: 0.00px;
+  line-height: 22.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 398px;
+}
+
+.index2 .your-recovery-phrase-J8zqCE {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 309px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 614px;
+}
+
+.index2 .twitter-Fu1StG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 26px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index2 .github-Fu1StG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 110px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index2 .github-Yzaxcf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 190px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index2 .footer-Fu1StG {
+  background-color: transparent;
+  height: 801px;
+  left: 0px;
+  position: absolute;
+  top: 1114px;
+  width: calc(100.00% + 8px);
+}
+
+.index2 .rectangle-1-4qBQ8J {
+  background-color: #f8b93d;
+  height: 801px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 8px);
+}
+
+.index2 .your-recovery-phrase-4qBQ8J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 561px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index2 .your-recovery-phrase-qTRwxM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 587px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index2 .your-recovery-phrase-dKABfC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 147px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 618px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index2 .your-recovery-phrase-xxnRdC {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 649px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index2 .frame-9-1-Fu1StG {
+  background-color: transparent;
+  height: 721px;
+  left: calc(50.00% - 335px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 354px;
+  width: 659px;
+}
+
+.index2 .group-6-Fu1StG {
+  background-color: transparent;
+  height: 51px;
+  left: calc(50.00% - 161px);
+  position: absolute;
+  top: 958px;
+  width: 324px;
+}
+
+.index2 .apple-app-store-6OaQVf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: calc(50.00% - 162px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.index2 .google-play-store-6OaQVf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: calc(50.00% + 9px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.index2 .group-7-Fu1StG {
+  background-color: transparent;
+  height: 500px;
+  left: calc(50.00% - 249px);
+  overflow: hidden;
+  position: absolute;
+  top: 1152px;
+  width: 500px;
+}
+
+.index2 .video-1-v1CI4u {
+  background-color: transparent;
+  height: 498px;
+  left: calc(50.00% - 248px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 498px;
+}
+
+.index2 .rectangle-2-v1CI4u {
+  background-color: #0000001a;
+  height: 500px;
+  left: calc(50.00% - 250px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 498px;
+}
+
+.index2 .polygon-1-v1CI4u {
+  background-color: transparent;
+  height: 101px;
+  left: calc(50.00% - 43px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 183px;
+  width: 87px;
+}
+
+.index2 .privacy-Fu1StG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% + 8px);
+}
+
+.index2 .rectangle-3-iVnGyx {
+  background-color: #fd8148;
+  bottom: 0px;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.index2 .copyright-iVnGyx {
+  background-color: transparent;
+  bottom: 20px;
+  height: auto;
+  left: calc(50.00% - 226px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 213px;
+}
+
+.index2 .terms-of-use-iVnGyx {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 117px;
+}
+
+.index2 .privacy-policy-iVnGyx {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% + 95px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 117px;
+}
+
+.index2 .thank-you-iVnGyx {
+  background-color: transparent;
+  bottom: 20px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% + 212px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 12px;
+}
+
+.index2 .group-9-Fu1StG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: calc(50.00% - 65px);
+  position: absolute;
+  top: 285px;
+  width: 132px;
+}
+
+.index2 .rectangle-3-aQsrWN {
+  background-color: var(--white);
+  border-radius: 56px;
+  height: 47px;
+  left: calc(50.00% - 66px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index2 .play-button-aQsrWN {
+  background-color: transparent;
+  height: 26px;
+  left: calc(50.00% - 52px);
+  position: absolute;
+  top: 11px;
+  width: 26px;
+}
+
+.index2 .ellipse-1-Mh6vke {
+  background-color: #f9c537;
+  border-radius: 13px;
+  height: 26px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.index2 .polygon-2-Mh6vke {
+  background-color: transparent;
+  height: 10px;
+  left: calc(50.00% - 5px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.index2 .watch-aQsrWN {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 22.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index2 .rectangle-4-Fu1StG {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 128px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 403px;
+  width: 280px;
+}
+/* screen - index2-1 */
+
+.index2-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1149px;
+  min-width: 362px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index2-1 .rectangle-O5Oeot {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.index2-1 .vertical-white-gold-1-O5Oeot {
+  background-color: transparent;
+  height: 152px;
+  left: calc(50.00% - 50px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 100px;
+}
+
+.index2-1 .please-write-down-th-O5Oeot {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 155px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 322px;
+  width: 311px;
+}
+
+.index2-1 .your-recovery-phrase-O5Oeot {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 154px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 222px;
+  width: 308px;
+}
+
+.index2-1 .group-5-O5Oeot {
+  background-color: transparent;
+  bottom: 14px;
+  height: 55px;
+  left: calc(50.00% - 111px);
+  position: absolute;
+  width: 245px;
+}
+
+.index2-1 .copyright-goW7Vd {
+  background-color: transparent;
+  bottom: 0px;
+  height: auto;
+  left: calc(50.00% - 122px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 217px;
+}
+
+.index2-1 .terms-of-use-goW7Vd {
+  background-color: transparent;
+  bottom: 29px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% - 122px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 94px;
+}
+
+.index2-1 .privacy-policy-goW7Vd {
+  background-color: transparent;
+  bottom: 29px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% - 48px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 162px;
+}
+
+.index2-1 .thank-you-goW7Vd {
+  background-color: transparent;
+  bottom: 33px;
+  cursor: pointer;
+  height: auto;
+  left: calc(50.00% + 94px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 10px;
+}
+
+.index2-1 .group-8-O5Oeot {
+  background-color: transparent;
+  height: 43px;
+  left: calc(50.00% - 141px);
+  position: absolute;
+  top: 440px;
+  width: 282px;
+}
+
+.index2-1 .apple-app-store-duAEym {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: calc(50.00% - 141px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index2-1 .google-play-store-duAEym {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: calc(50.00% + 11px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index2-1 .rectangle-4-O5Oeot {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 139px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 526px;
+  width: 280px;
+}
+@media screen and (max-width: 699px) {
+  .screen.index2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 700px) {
+  .screen.index2-1 { 
+    display: none;
+   }
+}

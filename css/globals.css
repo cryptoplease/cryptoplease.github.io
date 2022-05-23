@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "DIN-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/DIN-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "DIN-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/DIN-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "DIN-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/DIN-Regular.otf") format("opentype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/60a0ae52be9def8884f64d6e.60a0ae53be9def8884f64d71.7wzr41T.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

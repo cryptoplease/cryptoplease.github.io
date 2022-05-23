@@ -1,0 +1,621 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1149px;
+  min-width: 362px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .rectangle-IO3Fu5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.index .vertical-white-gold-1-IO3Fu5 {
+  background-color: transparent;
+  height: 152px;
+  left: calc(50.00% - 50px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 100px;
+}
+
+.index .please-write-down-th-IO3Fu5 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 155px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 322px;
+  width: 311px;
+}
+
+.index .your-recovery-phrase-IO3Fu5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 154px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 222px;
+  width: 308px;
+}
+
+.index .group-5-IO3Fu5 {
+  background-color: transparent;
+  bottom: 14px;
+  height: 55px;
+  left: calc(50.00% - 111px);
+  position: absolute;
+  width: 245px;
+}
+
+.index .copyright-iE9OFR {
+  background-color: transparent;
+  bottom: 0px;
+  height: auto;
+  left: calc(50.00% - 122px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 217px;
+}
+
+.index .terms-of-use-iE9OFR {
+  background-color: transparent;
+  bottom: 29px;
+  height: auto;
+  left: calc(50.00% - 122px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 94px;
+}
+
+.index .privacy-policy-iE9OFR {
+  background-color: transparent;
+  bottom: 29px;
+  height: auto;
+  left: calc(50.00% - 48px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 162px;
+}
+
+.index .thank-you-iE9OFR {
+  background-color: transparent;
+  bottom: 33px;
+  height: auto;
+  left: calc(50.00% + 94px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 10px;
+}
+
+.index .group-8-IO3Fu5 {
+  background-color: transparent;
+  height: 43px;
+  left: calc(50.00% - 141px);
+  position: absolute;
+  top: 440px;
+  width: 282px;
+}
+
+.index .apple-app-store-AB67xv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: calc(50.00% - 141px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index .google-play-store-AB67xv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: calc(50.00% + 11px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index .rectangle-4-IO3Fu5 {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 139px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 526px;
+  width: 280px;
+}
+/* screen - index-1 */
+
+.index-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1901px;
+  min-width: 700px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index-1 .rectangle-H5p1XY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.index-1 .horizontal-white-gold-1-H5p1XY {
+  background-color: transparent;
+  height: 47px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 259px;
+}
+
+.index-1 .group-1-H5p1XY {
+  background-color: transparent;
+  height: 132px;
+  left: calc(50.00% - 307px);
+  position: absolute;
+  top: 137px;
+  width: 618px;
+}
+
+.index-1 .please-write-down-th-TWmtNs {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 198px);
+  letter-spacing: 0.00px;
+  line-height: 22.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 398px;
+}
+
+.index-1 .your-recovery-phrase-TWmtNs {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 309px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 614px;
+}
+
+.index-1 .twitter-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 26px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index-1 .github-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 110px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index-1 .github-x8zAjE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 190px;
+  text-align: center;
+  top: 47px;
+  width: 80px;
+}
+
+.index-1 .footer-H5p1XY {
+  background-color: transparent;
+  height: 801px;
+  left: 0px;
+  position: absolute;
+  top: 1114px;
+  width: calc(100.00% + 8px);
+}
+
+.index-1 .rectangle-1-fqskvX {
+  background-color: #f8b93d;
+  height: 801px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 8px);
+}
+
+.index-1 .your-recovery-phrase-fqskvX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 561px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index-1 .your-recovery-phrase-h1Tb2z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 587px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index-1 .your-recovery-phrase-x72tLy {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 147px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 618px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index-1 .your-recovery-phrase-mSEio4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 145px;
+  letter-spacing: -0.27px;
+  line-height: 41.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 649px;
+  white-space: nowrap;
+  width: calc(100.00% - 300px);
+}
+
+.index-1 .frame-9-1-H5p1XY {
+  background-color: transparent;
+  height: 721px;
+  left: calc(50.00% - 335px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 354px;
+  width: 659px;
+}
+
+.index-1 .group-6-H5p1XY {
+  background-color: transparent;
+  height: 51px;
+  left: calc(50.00% - 161px);
+  position: absolute;
+  top: 958px;
+  width: 324px;
+}
+
+.index-1 .apple-app-store-xOqQ2p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: calc(50.00% - 162px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.index-1 .google-play-store-xOqQ2p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: calc(50.00% + 9px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 153px;
+}
+
+.index-1 .group-7-H5p1XY {
+  background-color: transparent;
+  height: 500px;
+  left: calc(50.00% - 249px);
+  overflow: hidden;
+  position: absolute;
+  top: 1152px;
+  width: 500px;
+}
+
+.index-1 .video-1-mWVzLw {
+  background-color: transparent;
+  height: 498px;
+  left: calc(50.00% - 248px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 498px;
+}
+
+.index-1 .rectangle-2-mWVzLw {
+  background-color: #0000001a;
+  height: 500px;
+  left: calc(50.00% - 250px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 498px;
+}
+
+.index-1 .polygon-1-mWVzLw {
+  background-color: transparent;
+  height: 101px;
+  left: calc(50.00% - 43px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 183px;
+  width: 87px;
+}
+
+.index-1 .privacy-H5p1XY {
+  background-color: transparent;
+  bottom: 0px;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% + 8px);
+}
+
+.index-1 .rectangle-3-xxb9M8 {
+  background-color: #fd8148;
+  bottom: 0px;
+  height: 64px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.index-1 .copyright-xxb9M8 {
+  background-color: transparent;
+  bottom: 20px;
+  height: auto;
+  left: calc(50.00% - 226px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 213px;
+}
+
+.index-1 .terms-of-use-xxb9M8 {
+  background-color: transparent;
+  bottom: 20px;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 117px;
+}
+
+.index-1 .privacy-policy-xxb9M8 {
+  background-color: transparent;
+  bottom: 20px;
+  height: auto;
+  left: calc(50.00% + 95px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 117px;
+}
+
+.index-1 .thank-you-xxb9M8 {
+  background-color: transparent;
+  bottom: 20px;
+  height: auto;
+  left: calc(50.00% + 212px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 12px;
+}
+
+.index-1 .group-9-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: calc(50.00% - 65px);
+  position: absolute;
+  top: 285px;
+  width: 132px;
+}
+
+.index-1 .rectangle-3-bzkAdY {
+  background-color: var(--white);
+  border-radius: 56px;
+  height: 47px;
+  left: calc(50.00% - 66px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 130px;
+}
+
+.index-1 .play-button-bzkAdY {
+  background-color: transparent;
+  height: 26px;
+  left: calc(50.00% - 52px);
+  position: absolute;
+  top: 11px;
+  width: 26px;
+}
+
+.index-1 .ellipse-1-lQxh5g {
+  background-color: #f9c537;
+  border-radius: 13px;
+  height: 26px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.index-1 .polygon-2-lQxh5g {
+  background-color: transparent;
+  height: 10px;
+  left: calc(50.00% - 5px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.index-1 .watch-bzkAdY {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 22.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index-1 .rectangle-4-H5p1XY {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 128px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 403px;
+  width: 280px;
+}
+@media screen and (max-width: 699px) {
+  .screen.index-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 700px) {
+  .screen.index { 
+    display: none;
+   }
+}

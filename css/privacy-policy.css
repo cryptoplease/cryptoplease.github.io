@@ -1,0 +1,64 @@
+/* screen - privacy-policy */
+
+.privacy-policy {
+  background-color: var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3871px;
+  min-width: 600px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.privacy-policy .group-1-fRFSBS {
+  background-color: transparent;
+  height: 36px;
+  left: calc(50.00% - 91px);
+  position: absolute;
+  top: 199px;
+  width: 183px;
+}
+
+.privacy-policy .your-recovery-phrase-m2X8US {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 92px);
+  letter-spacing: -0.27px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.privacy-policy .frame-fRFSBS {
+  background-color: transparent;
+  height: 66px;
+  left: calc(50.00% - 30px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 91px;
+  width: 60px;
+}
+
+.privacy-policy .privacy-policy-augus-fRFSBS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-din-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: calc(50.00% - 257px);
+  letter-spacing: -0.27px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 277px;
+  width: 530px;
+}
