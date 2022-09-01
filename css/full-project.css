@@ -1712,34 +1712,24 @@
 }
 
 .mobile .overlap-group11 {
-  height: 155px;
-  position: relative;
-  width: 428px;
-}
-
-.mobile .rectangle-124 {
+  display: flex;
+  justify-content: center;
   background-color: var(--sunglow);
-  height: 52px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 428px;
+  align-items: flex-start;
+  padding: 18px 0px;
 }
 
-.mobile .rectangle-125 {
+.mobile .rectangle-125-white {
   background-color: var(--white);
   height: 106px;
-  left: 0;
-  position: absolute;
-  top: 49px;
-  width: 428px;
+  position: relative;
 }
 
 .mobile .asset-22x-copy-1 {
   height: 52px;
-  left: 94px;
+  left: 20px;
   position: absolute;
-  top: 73px;
+  top: 20px;
   width: 240px;
 }
 
@@ -1748,11 +1738,9 @@
   font-family: var(--font-family-roboto);
   font-size: 13px;
   font-weight: 500;
-  left: 32px;
   letter-spacing: 0;
-  position: absolute;
-  text-align: center;
-  top: 16px;
+  position: relative;
+  width: 330px;
 }
 
 .mobile .span0-1 {
@@ -1766,9 +1754,9 @@
 
 .mobile .close-1 {
   height: 11px;
-  left: 391px;
+  right: 0px;
   position: absolute;
-  top: 19px;
+  top: 0px;
   width: 11px;
 }
 
@@ -1776,10 +1764,10 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 378px;
+  right: 10px;
   min-height: 16px;
   position: absolute;
-  top: 92px;
+  top: 10px;
   width: 24px;
 }
 
@@ -3015,7 +3003,7 @@
 .tablet .overlap-group11-1 {
   align-items: flex-start;
   background-color: var(--sunglow);
-  padding: 18.0px 70px;
+  padding: 18.0px 0px;
   width: 100%;
   display: flex;
   justify-content: center;
