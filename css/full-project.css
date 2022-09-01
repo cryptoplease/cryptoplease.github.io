@@ -6,8 +6,6 @@
   display: flex;
   flex-direction: column;
   height: 6191px;
-  overflow: hidden;
-  width: 1440px;
 }
 
 .full-project .header-notification {
@@ -15,9 +13,7 @@
   display: flex;
   height: 52px;
   justify-content: center;
-  margin-left: 3.27px;
-  overflow: hidden;
-  width: 1590px;
+  width: 100%;
 }
 
 .full-project .overlap-group8 {
@@ -202,12 +198,15 @@
 }
 
 @keyframes bp1-animate-enter14-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .full-project .overlap-group7 {
@@ -235,12 +234,15 @@ transform: scale(1);
 }
 
 @keyframes bp1-animate-enter15-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .full-project .qr-code {
@@ -279,12 +281,15 @@ transform: scale(1);
 }
 
 @keyframes bp1-animate-enter13-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group6 {
@@ -383,12 +388,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter9-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group1 {
@@ -517,12 +525,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter10-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group2 {
@@ -639,12 +650,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter11-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group3 {
@@ -765,12 +779,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter12-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group4 {
@@ -912,12 +929,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter7-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .secure-link-graphic-2 {
@@ -937,12 +957,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter8-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group5 {
@@ -1037,12 +1060,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter6-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .full-project .price-container {
@@ -1098,12 +1124,15 @@ transform: scale(1);
 }
 
 @keyframes bp1-animate-enter5-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .full-project .flex-row-3 {
@@ -1210,12 +1239,15 @@ transform: scale(1);
 }
 
 @keyframes bp1-animate-enter-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .but-first-1 {
@@ -1241,12 +1273,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter1-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .phone-investments {
@@ -1268,12 +1303,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter2-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .bitmap-2 {
@@ -1301,12 +1339,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter4-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .whether-youre-just-1 {
@@ -1343,12 +1384,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp1-animate-enter3-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .full-project .overlap-group1-1 {
@@ -1658,6 +1702,7 @@ transform: translate(0,0);
   min-width: 1008px;
   text-align: center;
 }
+
 /* screen - mobile */
 
 .mobile {
@@ -1666,8 +1711,6 @@ transform: translate(0,0);
   display: flex;
   flex-direction: column;
   height: 6191px;
-  overflow: hidden;
-  width: 428px;
 }
 
 .mobile .overlap-group11 {
@@ -1790,12 +1833,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .mobile .overlap-group-3 {
@@ -1856,12 +1902,15 @@ transform: scale(1);
 }
 
 @keyframes bp2-animate-enter1-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .overlap-group1-2 {
@@ -1981,12 +2030,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter10-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .overlap-group8-1 {
@@ -2068,12 +2120,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter11-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .overlap-group9-1 {
@@ -2216,12 +2271,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter2-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .overlap-group2-2 {
@@ -2368,12 +2426,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter3-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .mobile .price-container-1 {
@@ -2431,12 +2492,15 @@ transform: scale(1);
 }
 
 @keyframes bp2-animate-enter4-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .mobile .investments-1 {
@@ -2490,12 +2554,15 @@ transform: scale(1);
 }
 
 @keyframes bp2-animate-enter6-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .whether-youre-just-2 {
@@ -2536,12 +2603,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter7-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .bitmap-5 {
@@ -2589,12 +2659,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter8-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .but-first-3 {
@@ -2620,12 +2693,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter9-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .get-espresso-2-btn-1 {
@@ -2643,12 +2719,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp2-animate-enter5-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .mobile .overlap-group-5 {
@@ -2923,6 +3002,7 @@ transform: translate(0,0);
   top: 469px;
   width: 4px;
 }
+
 /* screen - tablet */
 
 .tablet {
@@ -2931,18 +3011,16 @@ transform: translate(0,0);
   display: flex;
   flex-direction: column;
   height: 6191px;
-  overflow: hidden;
-  width: 1024px;
+  width: 100%
 }
 
 .tablet .overlap-group11-1 {
   align-items: flex-start;
   background-color: var(--sunglow);
-  display: flex;
-  height: 54px;
-  margin-top: -1px;
-  min-width: 1026px;
   padding: 18.0px 70px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .tablet .crypto-please-is-now-2 {
@@ -2951,8 +3029,6 @@ transform: translate(0,0);
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.41px;
-  min-height: 16px;
-  min-width: 329px;
 }
 
 .tablet .span0-2 {
@@ -2967,7 +3043,6 @@ transform: translate(0,0);
 .tablet .close-2 {
   align-self: center;
   height: 15px;
-  margin-bottom: 1.0px;
   margin-left: 541px;
   width: 15px;
 }
@@ -3116,12 +3191,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter14-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .tablet .overlap-group8-2 {
@@ -3148,12 +3226,15 @@ transform: scale(1);
 }
 
 @keyframes bp3-animate-enter15-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .tablet .qr-code-2 {
@@ -3193,12 +3274,15 @@ transform: scale(1);
 }
 
 @keyframes bp3-animate-enter13-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group7-2 {
@@ -3295,12 +3379,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter9-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group1-4 {
@@ -3429,12 +3516,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter10-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group2-3 {
@@ -3552,12 +3642,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter11-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group3-3 {
@@ -3670,12 +3763,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter12-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group4-2 {
@@ -3794,12 +3890,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter7-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .secure-link-graphic-2-2 {
@@ -3819,12 +3918,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter8-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group6-2 {
@@ -3942,12 +4044,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter6-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .tablet .price-container-2 {
@@ -4003,12 +4108,15 @@ transform: scale(1);
 }
 
 @keyframes bp3-animate-enter5-frames {
-  from{opacity: 0;
-transform: scale(1.1);
-}
-to{opacity: 1;
-transform: scale(1);
-}
+  from {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 
 .tablet .flex-row-24 {
@@ -4143,12 +4251,15 @@ transform: scale(1);
 }
 
 @keyframes bp3-animate-enter3-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .whether-youre-just-4 {
@@ -4200,12 +4311,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter4-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .bitmap-8 {
@@ -4253,12 +4367,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter1-frames {
-  from{opacity: 0;
-transform: translate(25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .but-first-5 {
@@ -4284,12 +4401,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter2-frames {
-  from{opacity: 0;
-transform: translate(-25px, 0);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(-25px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .get-espresso-2-btn-2 {
@@ -4308,12 +4428,15 @@ transform: translate(0,0);
 }
 
 @keyframes bp3-animate-enter-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .tablet .overlap-group-8 {
@@ -4576,27 +4699,33 @@ transform: translate(0,0);
   text-align: center;
   width: 580px;
 }
+
 @media screen and (max-width: 1023px) {
-  .screen.tablet { 
+  .screen.tablet {
     display: none;
-   }
-  .screen.full-project { 
+  }
+
+  .screen.full-project {
     display: none;
-   }
+  }
 }
+
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
-  .screen.full-project { 
+  .screen.full-project {
     display: none;
-   }
-  .screen.mobile { 
+  }
+
+  .screen.mobile {
     display: none;
-   }
+  }
 }
+
 @media screen and (min-width: 1440px) {
-  .screen.tablet { 
+  .screen.tablet {
     display: none;
-   }
-  .screen.mobile { 
+  }
+
+  .screen.mobile {
     display: none;
-   }
+  }
 }
