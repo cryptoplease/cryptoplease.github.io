@@ -21,7 +21,6 @@
   background-color: var(--sunglow);
   display: flex;
   height: 54px;
-  margin-top: -1px;
   min-width: 1592px;
   padding: 0 163px;
 }
