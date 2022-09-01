@@ -4433,7 +4433,6 @@
 }
 
 .tablet .tabletfooter {
-  position: relative;
   align-self: flex-end;
 }
 
@@ -4450,7 +4449,6 @@
 .tablet .flex-row-26 {
   align-items: flex-start;
   display: flex;
-  height: 323px;
   margin-top: 29px;
   min-width: 893px;
 }
