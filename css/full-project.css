@@ -4617,7 +4617,6 @@
   align-items: flex-start;
   align-self: flex-end;
   display: flex;
-  overflow: hidden;
   width: 288px;
 }
 
