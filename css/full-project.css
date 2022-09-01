@@ -1722,8 +1722,16 @@
   width: 100%;
 }
 
-.mobile .rectangle-125-white {
+.mobile .overlap-group12 {
+  display: flex;
+  justify-content: center;
   background-color: var(--white);
+  align-items: flex-start;
+  padding: 18px 0px;
+  width: 100%;
+}
+
+.mobile .rectangle-125-white {
   height: 106px;
   position: relative;
 }
