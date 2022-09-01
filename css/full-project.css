@@ -1704,11 +1704,13 @@
 /* screen - mobile */
 
 .mobile {
-  align-items: center;
+  justify-content: flex-start;
   background-color: var(--outrageous-orange);
   display: flex;
   flex-direction: column;
   height: 6191px;
+  width: 100%;
+  align-items: center;
 }
 
 .mobile .overlap-group11 {
@@ -1717,6 +1719,7 @@
   background-color: var(--sunglow);
   align-items: flex-start;
   padding: 18px 0px;
+  width: 100%;
 }
 
 .mobile .rectangle-125-white {
@@ -2290,7 +2293,6 @@
 }
 
 .mobile .send-and-receive-mon-2 {
-  align-self: flex-end;
   letter-spacing: 0.65px;
   line-height: 37px;
   margin-right: 18px;
@@ -2300,7 +2302,6 @@
 }
 
 .mobile .espressos-patented-2 {
-  align-self: flex-end;
   letter-spacing: 0.27px;
   margin-right: 18px;
   margin-top: 22px;
@@ -2309,7 +2310,6 @@
 }
 
 .mobile .overlap-group10-1 {
-  align-self: flex-end;
   height: 689px;
   margin-right: -310px;
   margin-top: 27px;
@@ -2742,7 +2742,6 @@
 }
 
 .mobile .overlap-group13 {
-  align-self: flex-start;
   height: 805px;
   position: relative;
   width: 456px;
