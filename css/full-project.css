@@ -23,7 +23,6 @@
   display: flex;
   height: 54px;
   width: 100%;
-  padding: 0 163px;
 }
 
 .full-project .crypto-please-is-now {
@@ -45,6 +44,8 @@
 }
 
 .full-project .close {
+  position: absolute;
+  right: 0px;
   height: 15px;
   margin-bottom: 1.0px;
   margin-left: 917px;
