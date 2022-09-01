@@ -2319,10 +2319,6 @@
 
 .mobile .overlap-group10-1 {
   height: 689px;
-  margin-right: -310px;
-  margin-top: 27px;
-  position: relative;
-  width: 802px;
 }
 
 .mobile .overlap-group3-2 {
@@ -2331,11 +2327,8 @@
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
-  left: 64px;
   min-height: 689px;
   padding: 100.0px 0;
-  position: absolute;
-  top: 0;
   width: 428px;
 }
 
@@ -2405,10 +2398,8 @@
 
 .mobile .x0-2 {
   height: 64px;
-  left: 136px;
   opacity: 0;
-  position: absolute;
-  top: 478px;
+  position: relative;
   transform: scale(1.1);
   width: 126px;
 }
@@ -2471,10 +2462,8 @@
 
 .mobile .x0-3 {
   height: 64px;
-  left: 290px;
   opacity: 0;
-  position: absolute;
-  top: 478px;
+  position: relative;
   transform: scale(1.1);
   width: 126px;
 }
