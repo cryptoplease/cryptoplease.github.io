@@ -4173,11 +4173,9 @@
 }
 
 .tablet .overlap-group-container-2 {
-  height: 2301px;
-  margin-left: 49.0px;
   margin-top: 171px;
   position: relative;
-  width: 1026px;
+  align-self: flex-end;
 }
 
 .tablet .overlap-group2-4 {
@@ -4185,11 +4183,8 @@
   background-color: var(--thunder);
   display: flex;
   flex-direction: column;
-  left: 0;
   min-height: 1625px;
   padding: 197px 0;
-  position: absolute;
-  top: 0;
   width: 1026px;
 }
 
@@ -4437,16 +4432,18 @@
   min-height: 21px;
 }
 
+.tablet .tabletfooter {
+  position: relative;
+  align-self: flex-end;
+}
+
 .tablet .flex-col-19 {
   align-items: flex-end;
   background-color: var(--outrageous-orange);
   display: flex;
   flex-direction: column;
-  left: 1px;
   min-height: 677px;
   padding: 34px 64px;
-  position: absolute;
-  top: 1624px;
   width: 1024px;
 }
 
