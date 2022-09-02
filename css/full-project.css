@@ -988,10 +988,8 @@
   align-items: flex-start;
   display: flex;
   height: 989px;
-  margin-left: 58.77px;
   margin-top: 115px;
   padding: 0 6.4px;
-  width: 1456px;
 }
 
 .full-project .overlap-group4-1 {
@@ -1160,21 +1158,16 @@
 }
 
 .full-project .investments {
-  align-items: flex-start;
-  display: flex;
   height: 1505px;
   margin-top: 160px;
-  overflow: hidden;
   padding: 0 112px;
-}
-
-.full-project .overlap-group2-1 {
   align-items: center;
   background-color: var(--thunder);
   display: flex;
   flex-direction: column;
   min-height: 1507px;
   padding: 141px 0;
+  width: 100%;
 }
 
 .full-project .overlap-group3-1 {
@@ -1416,10 +1409,8 @@
   background-color: var(--outrageous-orange);
   display: flex;
   flex-direction: column;
-  margin-left: 56.0px;
   min-height: 556px;
   padding: 34.0px 82px;
-  width: 1441px;
 }
 
 .full-project .flex-row-4 {
