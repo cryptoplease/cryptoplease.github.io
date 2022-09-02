@@ -3037,6 +3037,7 @@
 .tablet .header-menu-tablet {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
 }
 
 .tablet .send-receive-1 {
