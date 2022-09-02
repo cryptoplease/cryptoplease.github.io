@@ -3950,10 +3950,9 @@
 }
 
 .tablet .send-receive-globa-2 {
-  align-self: flex-end;
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: 95px;
+  font-size: 62px;
   font-weight: 700;
   letter-spacing: 1.71px;
   line-height: 93px;
