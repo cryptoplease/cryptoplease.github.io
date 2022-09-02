@@ -4643,7 +4643,7 @@
   width: 580px;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 767px) {
   .screen.tablet {
     display: none;
   }
@@ -4653,7 +4653,7 @@
   }
 }
 
-@media screen and (min-width: 750px) and (max-width: 1439px) {
+@media screen and (min-width: 768px) and (max-width: 1439px) {
   .screen.full-project {
     display: none;
   }
