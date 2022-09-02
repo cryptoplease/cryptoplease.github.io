@@ -4166,6 +4166,7 @@
 .tablet .overlap-group-container-2 {
   margin-top: 171px;
   position: relative;
+  width: 100%;
 }
 
 .tablet .overlap-group2-4 {
@@ -4187,8 +4188,8 @@
   height: 642px;
   left: 0;
   position: absolute;
-  top: 135px;
-  width: 1024px;
+  top: 372px;
+  width: 100%;
 }
 
 .tablet .investments-text-2 {
