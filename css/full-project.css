@@ -3270,6 +3270,14 @@
   width: 475px;
 }
 
+.tablet .tablet-phones {
+  width: 475px;
+}
+
+.tablet .tablet-phones-img {
+  width: 475px;
+}
+
 .tablet .overlap-group-7 {
   align-items: flex-start;
   background-image: url(../img/rectangle-4@1x.svg);
