@@ -3310,18 +3310,15 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: -102.0px;
   margin-top: 133px;
   min-height: 5049px;
   padding: 0 16.0px;
-  width: 1179px;
 }
 
 .tablet .app-highlights-1 {
   align-items: flex-start;
   display: flex;
   height: 466px;
-  margin-left: 92.0px;
   min-width: 945px;
 }
 
@@ -3948,7 +3945,6 @@
 }
 
 .tablet .overlap-group-container-1 {
-  align-self: flex-end;
   height: 927px;
   margin-top: 100px;
   position: relative;
@@ -4173,7 +4169,6 @@
 .tablet .overlap-group-container-2 {
   margin-top: 171px;
   position: relative;
-  align-self: flex-end;
 }
 
 .tablet .overlap-group2-4 {
@@ -4430,9 +4425,7 @@
   min-height: 21px;
 }
 
-.tablet .tabletfooter {
-  align-self: flex-end;
-}
+.tablet .tabletfooter {}
 
 .tablet .flex-col-19 {
   align-items: flex-end;
