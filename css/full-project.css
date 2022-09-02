@@ -3017,19 +3017,31 @@
   align-items: center;
   display: flex;
   margin-top: 34px;
-  min-width: 768px;
+  max-width: 900px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.tablet .logo-tablet {
+  align-self: flex-start;
+  flex-grow: 1;
 }
 
 .tablet .asset-22x-copy-3 {
-  align-self: flex-start;
   height: 55px;
   width: 246px;
+  margin-left: 10px;
+
+}
+
+.tablet .header-menu-tablet {
+  display: flex;
+  justify-content: flex-end;
 }
 
 .tablet .send-receive-1 {
   letter-spacing: 0.41px;
   margin-bottom: 8.48px;
-  margin-left: 136px;
   min-height: 18px;
   min-width: 109px;
   text-align: right;
@@ -3047,7 +3059,7 @@
 .tablet .help-center-1 {
   letter-spacing: 0.41px;
   margin-bottom: 8.48px;
-  margin-left: 22px;
+  margin-left: 3px;
   min-height: 18px;
   min-width: 84px;
   text-align: center;
@@ -3058,14 +3070,14 @@
   align-self: flex-end;
   display: flex;
   height: 62px;
-  margin-left: 23px;
+  margin-left: 0px;
   min-width: 179px;
 }
 
 .tablet .overlap-group-6 {
   height: 63px;
-  margin-left: -1px;
-  margin-top: -1px;
+  margin-right: 10px;
+  margin-top: 0px;
   position: relative;
   width: 180px;
 }
