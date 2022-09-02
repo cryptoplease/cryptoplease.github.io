@@ -142,7 +142,7 @@
   left: 49px;
   letter-spacing: 0.21px;
   position: absolute;
-  top: 13px;
+  top: 18px;
 }
 
 .full-project .flex-row {
@@ -1400,7 +1400,7 @@
 .full-project .get-espresso-1 {
   letter-spacing: 0.24px;
   margin-left: 11px;
-  margin-top: 2px;
+  margin-top: 6px;
   min-height: 21px;
 }
 
@@ -3102,7 +3102,7 @@
   left: 49px;
   letter-spacing: 0.21px;
   position: absolute;
-  top: 13px;
+  top: 17px;
 }
 
 .tablet .flex-row-21 {
@@ -4408,7 +4408,7 @@
 .tablet .get-espresso-5 {
   letter-spacing: 0.24px;
   margin-left: 11px;
-  margin-top: 2px;
+  margin-top: 5px;
   min-height: 21px;
 }
 
@@ -4421,14 +4421,14 @@
   flex-direction: column;
   min-height: 677px;
   padding: 34px 64px;
-  width: 1024px;
 }
 
 .tablet .flex-row-26 {
   align-items: flex-start;
   display: flex;
   margin-top: 29px;
-  min-width: 893px;
+  min-width: 730px;
+  justify-content: space-between;
 }
 
 .tablet .flex-col-20 {
@@ -4583,10 +4583,8 @@
 
 .tablet .flex-col-23 {
   align-items: flex-start;
-  align-self: flex-end;
   display: flex;
   flex-direction: column;
-  margin-left: 241px;
   min-height: 322px;
   width: 307px;
 }
@@ -4645,7 +4643,7 @@
   width: 580px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 750px) {
   .screen.tablet {
     display: none;
   }
@@ -4655,7 +4653,7 @@
   }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1439px) {
+@media screen and (min-width: 750px) and (max-width: 1439px) {
   .screen.full-project {
     display: none;
   }
