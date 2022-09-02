@@ -3016,9 +3016,8 @@
 .tablet .main-nav-tablet {
   align-items: center;
   display: flex;
-  margin-left: 5.31px;
   margin-top: 34px;
-  min-width: 895px;
+  min-width: 768px;
 }
 
 .tablet .asset-22x-copy-3 {
