@@ -1688,8 +1688,12 @@
     font-size: 38px;
   }
 
-  .desktop .content-hightlight {
+  .desktop .section-content {
     font-size: 18px;
+  }
+
+  .desktop .section-title {
+    font-size: 44px;
   }
 
 }
