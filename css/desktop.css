@@ -456,8 +456,6 @@
   letter-spacing: 0.63px;
   line-height: 46px;
   margin-top: 52px;
-  min-height: 46px;
-  min-width: 110px;
   text-align: center;
   white-space: nowrap;
 }
@@ -793,8 +791,6 @@
   letter-spacing: 0.63px;
   line-height: 46px;
   margin-top: 52px;
-  min-height: 46px;
-  min-width: 134px;
   text-align: center;
   white-space: nowrap;
 }
