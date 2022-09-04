@@ -578,8 +578,6 @@
   line-height: 46px;
   margin-left: 38.64px;
   margin-top: 52px;
-  min-height: 46px;
-  min-width: 81px;
   text-align: center;
   white-space: nowrap;
 }
@@ -704,8 +702,6 @@
   line-height: 46px;
   margin-left: 2.64px;
   margin-top: 52px;
-  min-height: 46px;
-  min-width: 198px;
   text-align: center;
   white-space: nowrap;
 }
@@ -807,8 +803,6 @@
   letter-spacing: 0.07px;
   line-height: 25px;
   margin-top: 14px;
-  min-height: 100px;
-  width: 186px;
 }
 
 .desktop .send-receive-1 {
