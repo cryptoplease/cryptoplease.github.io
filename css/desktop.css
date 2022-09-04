@@ -182,7 +182,6 @@
   font-weight: 500;
   margin-top: 9px;
   min-height: 75px;
-  width: 514px;
   line-height: 25px;
 }
 
@@ -1671,6 +1670,15 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  .desktop .flex-col {
+    width: 100%;
+    min-width: 380px;
+  }
+
+  .desktop .pay-with-crypto-img-container {
+    max-width: 380px;
+  }
+
   .desktop .asset-22x-copy {
     width: 246px;
   }
