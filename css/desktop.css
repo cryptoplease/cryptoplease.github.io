@@ -322,16 +322,13 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 417px;
   width: 179px;
 }
 
 .desktop .send-graphic {
   height: 224px;
-  margin-left: 1.36px;
   opacity: 0;
   transform: translate(25px, 0);
-  width: 144px;
 }
 
 .desktop .send-graphic.animate-enter9 {
@@ -477,14 +474,12 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 414px;
   width: 238px;
 }
 
 .desktop .receive-graphic {
   opacity: 0;
   transform: translate(25px, 0);
-  width: 187px;
 }
 
 .desktop .receive-graphic.animate-enter10 {
@@ -602,7 +597,6 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 417px;
   width: 222px;
 }
 
@@ -729,7 +723,6 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 386px;
   width: 186px;
 }
 
@@ -1512,7 +1505,6 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  min-height: 109px;
   width: 143px;
 }
 
@@ -1695,8 +1687,6 @@
     font-size: 59px;
     line-height: 56px;
   }
-
-
 
 }
 
