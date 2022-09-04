@@ -572,14 +572,15 @@
   letter-spacing: 0.63px;
   line-height: 46px;
   margin-top: 52px;
+  margin-left: 20px;
 }
 
 .desktop .pay-and-accept-money {
   letter-spacing: 0.07px;
   line-height: 25px;
   margin-top: 21px;
-  min-height: 125px;
   max-width: 200px;
+  margin-left: 20px;
 }
 
 .desktop .flex-col-3 {
