@@ -173,7 +173,6 @@
   font-weight: 900;
   letter-spacing: 1.08px;
   line-height: 74px;
-  min-height: 247px;
   width: 601px;
 }
 
@@ -1660,4 +1659,46 @@
 .desktop .download-app-img {
   margin-top: 40px;
   width: 310px
+}
+
+@media screen and (max-width: 767px) {
+  .screen.tablet {
+    display: none;
+  }
+
+  .screen.full-project {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .desktop .asset-22x-copy {
+    width: 246px;
+  }
+
+  .desktop .header-menu-link {
+    margin-left: 15px;
+  }
+
+  .desktop .get-espresso-1-btn {
+    margin-left: 15px;
+  }
+
+  .desktop .an-easy-fast-secu {
+    font-size: 59px;
+    line-height: 56px;
+  }
+
+
+
+}
+
+@media screen and (min-width: 1024px) {
+  .screen.tablet {
+    display: none;
+  }
+
+  .screen.mobile {
+    display: none;
+  }
 }
