@@ -1664,6 +1664,34 @@
     line-height: 56px;
   }
 
+  .desktop .flex-row {
+    width: 850px;
+  }
+
+  .desktop .highlight-img1 {
+    width: 123px;
+  }
+
+  .desktop .highlight-img2 {
+    width: 159px;
+  }
+
+  .desktop .highlight-img3 {
+    width: 149px;
+  }
+
+  .desktop .highlight-img4 {
+    width: 125px;
+  }
+
+  .desktop .title-hightlight {
+    font-size: 38px;
+  }
+
+  .desktop .content-hightlight {
+    font-size: 18px;
+  }
+
 }
 
 @media screen and (min-width: 1024px) {
