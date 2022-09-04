@@ -5,12 +5,12 @@
   --thunder: #2d2b2c;
   --white: #ffffff;
  
-  --font-size-l: 20px;
-  --font-size-m: 18px;
-  --font-size-s: 16px;
-  --font-size-xl: 21px;
-  --font-size-xs: 15px;
-  --font-size-xxl: 38px;
+  --font-size-l: 21px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 26px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 49px;
   --font-size-xxs: 12px;
  
   --font-family-roboto: "Roboto", Helvetica;
@@ -18,63 +18,7 @@
 .roboto-medium-white-15px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.roboto-medium-white-16px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.roboto-bold-white-76px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: 76px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.roboto-medium-white-18px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.roboto-black-white-38px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 900;
-}
-
-.roboto-bold-sunglow-76px {
-  color: var(--sunglow);
-  font-family: var(--font-family-roboto);
-  font-size: 76px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.roboto-bold-thunder-76px {
-  color: var(--thunder);
-  font-family: var(--font-family-roboto);
-  font-size: 76px;
-  font-style: normal;
-  font-weight: 700;
-}
-
-.roboto-medium-white-22px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: 22px;
   font-style: normal;
   font-weight: 500;
 }
@@ -82,15 +26,7 @@
 .roboto-medium-white-20px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-l);
-  font-style: normal;
-  font-weight: 500;
-}
-
-.roboto-medium-white-21px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 500;
 }
@@ -103,34 +39,18 @@
   font-weight: 900;
 }
 
-.roboto-black-white-33px {
+.roboto-bold-white-76px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: 33px;
+  font-size: 76px;
   font-style: normal;
-  font-weight: 900;
-}
-
-.roboto-normal-white-12px {
-  color: var(--white);
-  font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 .roboto-black-white-49px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: 49px;
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 900;
-}
-
-.border-9px-sunglow {
-  border: 9px solid var(--sunglow);
-}
-
-.border-7px-sunglow {
-  border: 7px solid var(--sunglow);
 }
