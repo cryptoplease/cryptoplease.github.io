@@ -922,7 +922,7 @@
 }
 
 .desktop .phone {
-  left: 0px;
+  right: 0px;
   position: absolute;
   top: 0;
   width: 100%;
@@ -1665,7 +1665,23 @@
   }
 
   .desktop .flex-row {
-    width: 850px;
+    width: 760px;
+  }
+
+  .desktop .flex-col-1 {
+    width: 157px;
+  }
+
+  .desktop .flex-col-2 {
+    width: 200px;
+  }
+
+  .desktop .flex-col-3 {
+    width: 203px;
+  }
+
+  .desktop .flex-col-4 {
+    width: 178px;
   }
 
   .desktop .highlight-img1 {
@@ -1694,6 +1710,10 @@
 
   .desktop .section-title {
     font-size: 44px;
+  }
+
+  .desktop .phone {
+    width: 605px;
   }
 
 }
