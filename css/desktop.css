@@ -803,27 +803,22 @@
 }
 
 .desktop .overlap-group5 {
-  height: 253px;
-  left: 505px;
-  position: absolute;
-  top: 0;
-  width: 480px;
+
+  width: 100%;
+  z-index: 1;
+  margin-left: 470px;
+  padding-right: 20px;
 }
 
 .desktop .send-and-receive-mon {
-  left: 0;
   letter-spacing: 0.65px;
   line-height: 53px;
-  position: absolute;
-  top: 0;
 }
 
 .desktop .espressos-patented {
-  left: 0;
   letter-spacing: 0.27px;
   line-height: 26px;
-  position: absolute;
-  top: 175px;
+  margin-top: 20px;
 }
 
 .desktop .overlap-group6 {
@@ -1709,6 +1704,14 @@
 
   .desktop .section-title {
     font-size: 44px;
+  }
+
+  .desktop .secure-link-graphic-1 {
+    width: 325px;
+  }
+
+  .desktop .overlap-group5 {
+    margin-left: 380px;
   }
 
   .desktop .phone {
