@@ -1395,7 +1395,8 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  width: 295px;
+  width: 284px;
+  margin-left: 10px;
 }
 
 .desktop .flex-row-3 {
@@ -1421,7 +1422,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 56px;
+  margin-left: 25px;
   min-height: 94px;
   width: 130px;
 }
@@ -1458,9 +1459,7 @@
   font-weight: 900;
   letter-spacing: 0.35px;
   line-height: 28px;
-  margin-top: 2px;
-  min-height: 112px;
-  width: 310px;
+  width: 292px;
   position: relative;
 }
 
@@ -1617,8 +1616,8 @@
 }
 
 .desktop .download-app-img {
-  margin-top: 40px;
-  width: 310px
+  margin-top: 23px;
+  width: 100%;
 }
 
 @media screen and (max-width: 767px) {
@@ -1716,6 +1715,10 @@
 
   .desktop .phone {
     width: 605px;
+  }
+
+  .desktop .scan-to-download-the-1 {
+    font-size: 23px;
   }
 
 }
