@@ -1186,13 +1186,13 @@
   align-items: flex-start;
   display: flex;
   height: 146px;
-  min-width: 514px;
   margin-top: 150px;
 }
 
 .desktop .overlap-group-3 {
   position: relative;
-  width: 514px;
+  width: 100%;
+  max-width: 514px;
 }
 
 .desktop .title {
@@ -1204,7 +1204,6 @@
   letter-spacing: 1.33px;
   line-height: 74px;
   opacity: 0;
-  position: absolute;
   top: 72px;
   transform: translate(25px, 0);
   white-space: nowrap;
