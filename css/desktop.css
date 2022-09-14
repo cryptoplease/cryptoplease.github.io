@@ -105,7 +105,6 @@
   height: 63px;
   position: relative;
   width: 180px;
-  margin-right: 20px;
 }
 
 .desktop .rectangle-copy {
@@ -697,6 +696,7 @@
   letter-spacing: 0.63px;
   line-height: 46px;
   margin-top: 52px;
+  margin-left: 5px;
 }
 
 .desktop .transfer-money-as-us {
@@ -704,6 +704,7 @@
   line-height: 25px;
   margin-top: 20px;
   max-width: 209px;
+  margin-left: 5px;
 }
 
 .desktop .flex-col-4 {
@@ -785,12 +786,14 @@
   letter-spacing: 0.63px;
   line-height: 46px;
   margin-top: 52px;
+  margin-left: 5px;
 }
 
 .desktop .buy-sell-and-follow {
   letter-spacing: 0.07px;
   line-height: 25px;
   margin-top: 14px;
+  margin-left: 5px;
 }
 
 .desktop .send-receive-1 {
@@ -927,18 +930,14 @@
 .desktop .send-globally {
   align-items: flex-start;
   display: flex;
-  height: 989px;
-  margin-top: 115px;
   max-width: 1456px;
   width: 100%;
 }
 
 .desktop .overlap-group4-1 {
-  align-items: center;
   background-image: url(../img/globe-map-graphic@1x.svg);
   background-size: 100% 100%;
   display: flex;
-  min-height: 989px;
   width: 100%;
   justify-content: center;
 }
