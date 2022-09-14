@@ -1715,6 +1715,7 @@
   }
 
   .desktop .send-receive-1 {
+    margin-top: 100px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
