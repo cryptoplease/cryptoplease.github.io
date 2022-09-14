@@ -1720,7 +1720,25 @@
   }
 
   .desktop .overlap-group5 {
-    margin-left: 380px;
+    margin-left: 0px;
+    z-index: auto;
+    height: auto;
+  }
+
+  .desktop .secure-link-graphic-1 {
+    position: static;
+  }
+
+  .desktop .secure-link-graphic-2 {
+    position: static;
+  }
+
+  .desktop .cashing-out-shouldn {
+    position: static;
+  }
+
+  .desktop .whether-youre-just {
+    position: static;
   }
 
   .desktop .phone {
