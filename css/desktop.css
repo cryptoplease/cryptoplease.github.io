@@ -1416,6 +1416,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .desktop .flex-row-3 {
@@ -1474,10 +1475,9 @@
   font-weight: 900;
   letter-spacing: 0.35px;
   line-height: 28px;
-  width: 350px;
+  width: 100%;
   position: relative;
   justify-self: center;
-  margin-left: 15px;
 }
 
 .desktop .qr-code-1 {
@@ -1488,12 +1488,15 @@
 }
 
 .desktop .flex-col-10 {
-  align-items: flex-start;
+  width: 100%;
+}
+
+.desktop .follow-flex {
+  align-items: flex-end;
   display: flex;
   flex-direction: column;
   justify-self: end;
-  margin-left: 20px;
-  margin-right: 20px;
+  width: 100%;
 }
 
 
