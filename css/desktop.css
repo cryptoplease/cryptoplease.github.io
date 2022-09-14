@@ -977,7 +977,7 @@
   letter-spacing: 1.71px;
   line-height: 93.5px;
   margin-top: 150px;
-  min-width: 693px;
+  max-width: 693px;
   text-align: center;
 }
 
@@ -1792,8 +1792,10 @@
 
   .desktop .send-or-receive-mone {
     font-size: 27px;
-    width: 497px;
+    max-width: 480px;
     line-height: 32px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .desktop .whether-youre-just-1 {
