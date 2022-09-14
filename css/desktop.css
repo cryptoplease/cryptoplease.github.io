@@ -1416,7 +1416,6 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  width: 284px;
 }
 
 .desktop .flex-row-3 {
@@ -1475,9 +1474,10 @@
   font-weight: 900;
   letter-spacing: 0.35px;
   line-height: 28px;
-  width: 292px;
+  width: 350px;
   position: relative;
-  margin-left: 10px;
+  justify-self: center;
+  margin-left: 15px;
 }
 
 .desktop .qr-code-1 {
@@ -1491,9 +1491,11 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  width: 115px;
-  margin-left: 10px;
+  justify-self: end;
+  margin-left: 20px;
+  margin-right: 20px;
 }
+
 
 .desktop .stay-in-touch {
   letter-spacing: 0.20px;
@@ -1843,6 +1845,8 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+
+
   .desktop .flex-col {
     width: 100%;
     min-width: 380px;
