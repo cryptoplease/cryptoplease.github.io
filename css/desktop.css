@@ -1837,6 +1837,7 @@
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
     padding-right: 0px;
+    padding-left: 0px;
   }
 
   .desktop .phone-investments {
@@ -1844,8 +1845,6 @@
   }
 
   .desktop .flex-col-10 {
-    grid-column-start: 1;
-    grid-column-end: 2;
     width: 100%;
     margin-left: 0px;
   }
@@ -1865,6 +1864,7 @@
 
   .desktop .follow-flex {
     margin-top: 20px;
+    align-items: flex-start;
   }
 
   .desktop .title {
