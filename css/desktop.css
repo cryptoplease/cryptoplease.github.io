@@ -800,7 +800,7 @@
   margin-top: 264px;
   width: 100%;
   position: relative;
-  min-height: 900px;
+  height: 1000px;
   padding-right: 50px;
   max-width: 1224px;
 }
@@ -1156,7 +1156,7 @@
 
 .desktop .investment-container-1 {
   display: flex;
-  max-width: 900px;
+  max-width: 1060px;
   position: relative;
   min-height: 800px;
 }
