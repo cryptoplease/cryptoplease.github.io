@@ -1645,6 +1645,10 @@
     max-width: 500px;
   }
 
+  .desktop .header-menu {
+    display: none;
+  }
+
   .desktop .flex-col {
     width: 100%;
     max-width: 280px;
@@ -1656,6 +1660,14 @@
 
   .desktop .header-menu {
     margin-right: 30px;
+  }
+
+  .desktop .pay-with-crypto {
+    flex-direction: column;
+  }
+
+  .desktop .scan-qr {
+    display: none;
   }
 
   .desktop .pay-with-crypto-img-container {
@@ -1817,6 +1829,10 @@
   .desktop .flex-row-1 {
     margin-top: 50px;
 
+  }
+
+  .desktop .investment-container-1 {
+    flex-direction: column;
   }
 
   .desktop .scan-to-download-the-1 {
