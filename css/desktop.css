@@ -465,7 +465,6 @@
   line-height: 25px;
   margin-top: 20px;
   max-width: 150px;
-  margin-left: 10px;
 }
 
 .desktop .flex-col-2 {
@@ -1668,12 +1667,16 @@
   }
 
   .desktop .an-easy-fast-secu {
-    font-size: 59px;
-    line-height: 56px;
+    font-size: 38px;
+    line-height: 37px;
+  }
+
+  .desktop .scan-to-download-the {
+    font-size: 21px;
   }
 
   .desktop .the-future-of-paymen {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .desktop .flex-row {
