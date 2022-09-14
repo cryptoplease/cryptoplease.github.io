@@ -1406,7 +1406,7 @@
   margin-top: 47px;
   width: 100%;
   justify-content: space-between;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 3fr 3fr 2fr;
   grid-template-rows: 1fr;
   max-width: 1242px;
 }
@@ -1988,7 +1988,6 @@
 
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
-    width: 270px;
   }
 
   .desktop .phone-investments {
