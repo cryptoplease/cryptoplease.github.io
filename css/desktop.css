@@ -316,7 +316,7 @@
   display: flex;
   height: 520px;
   width: 100%;
-  max-width: 1128px;
+  max-width: 1100px;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -711,7 +711,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  width: 186px;
+  width: 159px;
   flex-grow: 1;
 }
 
@@ -798,10 +798,11 @@
   align-items: flex-start;
   display: flex;
   margin-top: 264px;
-  max-width: 1168px;
   width: 100%;
   position: relative;
-  height: 900px;
+  min-height: 900px;
+  padding-right: 50px;
+  max-width: 1224px;
 }
 
 .desktop .overlap-group-container {
@@ -813,8 +814,7 @@
 
   width: 100%;
   z-index: 1;
-  margin-left: 470px;
-  padding-right: 20px;
+  margin-left: 566px;
 }
 
 .desktop .send-and-receive-mon {
@@ -836,7 +836,7 @@
 }
 
 .desktop .cashing-out-shouldn {
-  left: 20px;
+  left: 50px;
   letter-spacing: 0.65px;
   line-height: 53px;
   position: absolute;
@@ -845,7 +845,7 @@
 }
 
 .desktop .whether-youre-just {
-  left: 20px;
+  left: 50px;
   letter-spacing: 0.27px;
   line-height: 26px;
   position: absolute;
@@ -855,7 +855,7 @@
 
 .desktop .secure-link-graphic-1 {
   display: block;
-  left: 20px;
+  left: 50px;
   opacity: 0;
   position: absolute;
   top: 0;
