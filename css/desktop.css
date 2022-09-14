@@ -1270,6 +1270,9 @@
   margin-left: 30px;
   margin-right: 50px;
 }
+
+.desktop .bitmap {
+  height: 100%;
 }
 
 .desktop .phone-investments.animate-enter2 {
@@ -1444,11 +1447,6 @@
   min-height: 94px;
   width: 130px;
 }
-
-
-
-
-
 
 .desktop .flex-row-4 {
   align-items: flex-start;
@@ -1629,6 +1627,9 @@
   width: 100%;
 }
 
+
+/* MEDIA QUERY */
+
 @media screen and (max-width: 767px) {
   .desktop .flex-row {
     grid-template-columns: 1fr 1fr;
@@ -1751,6 +1752,10 @@
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
   }
+
+  .desktop .phone-investments {
+    height: 528px;
+  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -1865,6 +1870,10 @@
 
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
+  }
+
+  .desktop .phone-investments {
+    height: 616px;
   }
 
 
