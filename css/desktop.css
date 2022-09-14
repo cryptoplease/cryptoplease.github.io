@@ -1740,7 +1740,7 @@
   .desktop .grey-frame {
     margin-left: 30px;
     margin-right: 30px;
-
+    margin-bottom: 0px;
   }
 
   .desktop .send-or-receive-mone {
