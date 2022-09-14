@@ -1497,7 +1497,6 @@
 
 .desktop .stay-in-touch {
   letter-spacing: 0.20px;
-  min-height: 18px;
 }
 
 .desktop .social-icons {
@@ -1515,7 +1514,7 @@
   height: 22px;
   width: 32px;
   margin-right: 10px;
-  margin-top: 3px;
+  margin-top: 6px;
   margin-bottom: 7px;
 }
 
@@ -1523,13 +1522,14 @@
   height: 28px;
   width: 34px;
   margin-right: 5px;
+  margin-top: 3px;
 }
 
 .desktop .twitter {
   height: 23px;
   width: 28px;
   margin-right: 5px;
-  margin-top: 3px;
+  margin-top: 6px;
 }
 
 .desktop .tiktok {
@@ -1541,7 +1541,7 @@
 .desktop .instagram {
   height: 24px;
   width: 24px;
-  margin-top: 6px;
+  margin-top: 5px;
 }
 
 .desktop .flex-col-13 {
@@ -1619,6 +1619,7 @@
   max-width: 1008px;
   width: 100%;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .desktop .download-app-img {
@@ -1632,7 +1633,7 @@
 @media screen and (max-width: 767px) {
   .desktop .flex-row {
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 300px;
     max-width: 500px;
   }
 
@@ -1815,9 +1816,15 @@
     height: 528px;
   }
 
-  .desktop .flex-row-2 {
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+  .desktop .flex-col-10 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .desktop .asset-22x {
+    margin-top: 50px;
   }
 }
 
