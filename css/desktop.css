@@ -1515,6 +1515,7 @@
   align-items: flex-start;
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .desktop .youtube {
@@ -1847,6 +1848,10 @@
     margin-left: 50px;
   }
 
+  .desktop .follow-flex {
+    margin-top: 20px;
+  }
+
 
 }
 
@@ -1964,6 +1969,7 @@
 
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
+    width: 270px;
   }
 
   .desktop .phone-investments {
