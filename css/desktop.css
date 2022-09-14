@@ -1403,11 +1403,12 @@
 }
 
 .desktop .flex-row-2 {
-  display: flex;
+  display: grid;
   margin-top: 47px;
   width: 100%;
   justify-content: space-between;
-  align-items: flex-start;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
   max-width: 1242px;
 }
 
@@ -1812,6 +1813,11 @@
 
   .desktop .phone-investments {
     height: 528px;
+  }
+
+  .desktop .flex-row-2 {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
   }
 }
 
