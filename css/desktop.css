@@ -1478,6 +1478,8 @@
   width: 100%;
   position: relative;
   justify-self: center;
+  padding-left: 10px;
+  padding-right: 20px;
 }
 
 .desktop .qr-code-1 {
@@ -1818,6 +1820,7 @@
 
   .desktop .scan-to-download-the-1 {
     font-size: 23px;
+    padding-right: 0px;
   }
 
   .desktop .phone-investments {
