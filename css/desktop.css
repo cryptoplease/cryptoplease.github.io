@@ -795,12 +795,9 @@
 }
 
 .desktop .send-receive-1 {
-  align-items: flex-start;
-  display: flex;
   margin-top: 264px;
   width: 100%;
   position: relative;
-  height: 1000px;
   padding-right: 50px;
   max-width: 1224px;
 }
@@ -811,10 +808,9 @@
 }
 
 .desktop .overlap-group5 {
-
-  width: 100%;
   z-index: 1;
   margin-left: 566px;
+  height: 930px;
 }
 
 .desktop .send-and-receive-mon {
