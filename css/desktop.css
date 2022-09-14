@@ -929,7 +929,6 @@
   display: flex;
   height: 989px;
   margin-top: 115px;
-  padding: 0 6.4px;
   max-width: 1456px;
   width: 100%;
 }
@@ -1707,7 +1706,7 @@
   }
 
   .desktop .secure-link-graphic-1 {
-    width: 325px;
+    width: 310px;
   }
 
   .desktop .overlap-group5 {
