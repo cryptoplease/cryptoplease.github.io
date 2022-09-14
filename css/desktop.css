@@ -1634,11 +1634,12 @@
   .desktop .flex-row {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+    max-width: 500px;
   }
 
   .desktop .flex-col {
     width: 100%;
-    min-width: 324px;
+    max-width: 280px;
   }
 
   .desktop .logo-tablet {
@@ -1677,10 +1678,6 @@
 
   .desktop .the-future-of-paymen {
     font-size: 16px;
-  }
-
-  .desktop .flex-row {
-    max-width: 900px;
   }
 
   .desktop .app-highlights {
@@ -1724,6 +1721,7 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    padding-right: 0px;
 
   }
 
@@ -1733,18 +1731,19 @@
     z-index: auto;
     height: auto;
     width: 100%;
-    max-width: 500px;
+    max-width: 450px;
   }
 
   .desktop .secure-link-graphic-1 {
     position: static;
-    margin: 20px auto;
+    margin: 0px;
+    margin-top: 80px;
   }
 
   .desktop .secure-link-graphic-2 {
     position: static;
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     height: auto;
   }
 
