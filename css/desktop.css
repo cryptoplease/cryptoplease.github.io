@@ -1380,7 +1380,7 @@
 }
 
 .desktop .footer {
-  align-items: flex-start;
+  align-items: center;
   background-color: var(--outrageous-orange);
   display: flex;
   flex-direction: column;
@@ -1393,10 +1393,11 @@
 
 .desktop .flex-row-2 {
   display: flex;
-  margin-top: 27px;
+  margin-top: 47px;
   width: 100%;
   justify-content: space-between;
   align-items: flex-start;
+  max-width: 1242px;
 }
 
 .desktop .flex-col-7 {
