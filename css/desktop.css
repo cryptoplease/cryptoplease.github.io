@@ -992,7 +992,8 @@
   margin-top: 29px;
   min-height: 125px;
   text-align: center;
-  width: 663px;
+  max-width: 663px;
+  width: 100%;
 }
 
 .desktop .flex-row-1 {
@@ -1001,7 +1002,6 @@
   height: 119px;
   margin-left: 6.64px;
   margin-top: 73px;
-  min-width: 425px;
 }
 
 .desktop .flex-col-5 {
@@ -1778,6 +1778,7 @@
     font-size: 61px;
     margin-top: 80px;
     line-height: 64px;
+    min-width: 300px;
   }
 
 
@@ -1831,6 +1832,12 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 100px;
   }
+
+  .desktop .flex-col-6 {
+    margin-left: 50px;
+  }
+
+
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -1931,7 +1938,7 @@
 
   .desktop .send-or-receive-mone {
     font-size: 27px;
-    width: 597px;
+    max-width: 597px;
   }
 
   .desktop .overlap-group3-1 {
