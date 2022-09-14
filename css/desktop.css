@@ -1385,9 +1385,10 @@
   display: flex;
   flex-direction: column;
   min-height: 556px;
-  max-width: 980px;
   margin-top: 40px;
   width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .flex-row-2 {
@@ -1403,7 +1404,6 @@
   display: flex;
   flex-direction: column;
   width: 284px;
-  margin-left: 10px;
 }
 
 .desktop .flex-row-3 {
@@ -1535,7 +1535,7 @@
 }
 
 .desktop .flex-col-13 {
-  align-items: flex-start;
+  align-items: center;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -1594,13 +1594,11 @@
 }
 
 .desktop .asset-22x {
-  margin-left: 10px;
   margin-top: 86px;
   width: 367px;
 }
 
 .desktop .copyright-2022-viol {
-  align-self: flex-end;
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-xxs);
@@ -1609,9 +1607,8 @@
   margin-top: 49px;
   min-height: 42px;
   max-width: 1008px;
+  width: 100%;
   text-align: center;
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
 .desktop .download-app-img {
