@@ -1483,8 +1483,9 @@
 .desktop .qr-code-1 {
   float: right;
   height: 118px;
-  width: 117px;
+  max-width: 117px;
   margin-left: 10px;
+  width: 100%;
 }
 
 .desktop .flex-col-10 {
@@ -1611,7 +1612,8 @@
 
 .desktop .asset-22x {
   margin-top: 86px;
-  width: 367px;
+  max-width: 367px;
+  width: 100%;
 }
 
 .desktop .copyright-2022-viol {
