@@ -977,7 +977,6 @@
   letter-spacing: 1.71px;
   line-height: 93.5px;
   margin-top: 150px;
-  min-height: 187px;
   min-width: 693px;
   text-align: center;
 }
@@ -1775,13 +1774,17 @@
 
   .desktop .send-receive-globa {
     font-size: 61px;
-    margin-top: 120px;
+    margin-top: 80px;
+    line-height: 64px;
   }
+
 
   .desktop .grey-frame {
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 0px;
+    border-radius: 180px;
+    padding-bottom: 60px;
   }
 
   .desktop .send-or-receive-mone {
