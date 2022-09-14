@@ -1720,16 +1720,29 @@
   }
 
   .desktop .overlap-group5 {
-    margin-left: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
     z-index: auto;
     height: auto;
   }
 
   .desktop .secure-link-graphic-1 {
     position: static;
+    margin-top: 20px;
+    margin-left: 20px;
   }
 
   .desktop .secure-link-graphic-2 {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+
+  .desktop .overlap-group-2 {
+    position: static;
+  }
+
+  .desktop .phone {
     position: static;
     width: 100%;
   }
