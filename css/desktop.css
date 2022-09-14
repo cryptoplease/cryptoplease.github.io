@@ -1632,8 +1632,18 @@
     min-width: 380px;
   }
 
+  .desktop .logo-tablet {
+    margin-left: 30px;
+  }
+
+  .desktop .header-menu {
+    margin-right: 30px;
+  }
+
   .desktop .pay-with-crypto-img-container {
     max-width: 380px;
+    padding-left: 30px;
+    padding-left: 30px;
   }
 
   .desktop .asset-22x-copy {
@@ -1662,15 +1672,15 @@
   }
 
   .desktop .flex-col-1 {
-    width: 157px;
+    width: 122px;
   }
 
   .desktop .flex-col-2 {
-    width: 193px;
+    width: 175px;
   }
 
   .desktop .flex-col-3 {
-    width: 198px;
+    width: 177px;
   }
 
   .desktop .flex-col-4 {
