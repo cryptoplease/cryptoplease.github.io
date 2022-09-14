@@ -1722,6 +1722,12 @@
     margin-top: 120px;
   }
 
+  .desktop .grey-frame {
+    margin-left: 30px;
+    margin-right: 30px;
+
+  }
+
   .desktop .send-or-receive-mone {
     font-size: 27px;
     width: 597px;
