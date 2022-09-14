@@ -955,8 +955,8 @@
   border-radius: 230px;
   align-items: center;
   padding-bottom: 80px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .desktop .send-receive-globa {
@@ -1258,7 +1258,7 @@
   height: 616px;
   position: relative;
   margin-left: 30px;
-  margin-right: 30px;
+  margin-right: 50px;
 }
 }
 
@@ -1281,7 +1281,7 @@
 }
 
 .desktop .investments-text {
-  margin-left: 30px;
+  margin-left: 50px;
   margin-top: 120px;
   width: 500px;
 }
