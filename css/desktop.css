@@ -932,11 +932,14 @@
   display: flex;
   max-width: 1456px;
   width: 100%;
+  margin-top: 100px;
 }
 
 .desktop .overlap-group4-1 {
   background-image: url(../img/globe-map-graphic@1x.svg);
-  background-size: 100% 100%;
+  background-position: center top;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
   display: flex;
   width: 100%;
   justify-content: center;
@@ -955,6 +958,7 @@
   padding-bottom: 80px;
   margin-left: 50px;
   margin-right: 50px;
+  margin-top: 100px;
 }
 
 .desktop .send-receive-globa {
