@@ -1731,6 +1731,7 @@
 
   .desktop .secure-link-graphic-2 {
     position: static;
+    width: 100%;
   }
 
   .desktop .cashing-out-shouldn {
