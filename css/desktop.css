@@ -184,7 +184,6 @@
 
 .desktop .get-espresso-1-btn-1 {
   height: 62px;
-  margin-left: 4.14px;
   margin-top: 56px;
   opacity: 0;
   transform: scale(1.1);
@@ -1673,6 +1672,7 @@
   .desktop .an-easy-fast-secu {
     font-size: 38px;
     line-height: 37px;
+    text-align: center;
   }
 
   .desktop .scan-to-download-the {
