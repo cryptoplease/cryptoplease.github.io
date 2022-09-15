@@ -326,7 +326,6 @@
 }
 
 .desktop .send-graphic {
-  height: 224px;
   opacity: 0;
   transform: translate(25px, 0);
 }
@@ -349,27 +348,36 @@
   }
 }
 
-.desktop .overlap-group1 {
-  height: 224px;
-  display: flex;
-  justify-content: center;
-
+.desktop .overlap-group-global {
+  height: 134px;
+  width: 133px;
+  margin: auto;
+  background-image: url(../img/oval.svg);
+  position: relative;
 }
 
 .desktop .highlight-img1 {
-  align-self: flex-end;
+  position: absolute;
+  bottom: 8px;
+  left: -12px;
 }
 
 .desktop .highlight-img2 {
-  align-self: flex-end;
+  position: absolute;
+  bottom: 8px;
+  left: -56px;
 }
 
 .desktop .highlight-img3 {
-  align-self: flex-end;
+  position: absolute;
+  bottom: 8px;
+  left: -42px;
 }
 
 .desktop .highlight-img4 {
-  align-self: flex-end;
+  position: absolute;
+  bottom: 8px;
+  left: -13px;
 }
 
 .desktop .oval {
@@ -497,12 +505,6 @@
   }
 }
 
-.desktop .overlap-group2 {
-  height: 224px;
-  display: flex;
-  justify-content: center;
-}
-
 .desktop .oval-1 {
   border: 9px solid;
   border-color: var(--sunglow);
@@ -616,12 +618,6 @@
     opacity: 1;
     transform: translate(0, 0);
   }
-}
-
-.desktop .overlap-group3 {
-  height: 224px;
-  display: flex;
-  justify-content: center;
 }
 
 .desktop .oval-copy {
@@ -739,12 +735,6 @@
     opacity: 1;
     transform: translate(0, 0);
   }
-}
-
-.desktop .overlap-group4 {
-  height: 224px;
-  display: flex;
-  justify-content: center;
 }
 
 .desktop .oval-copy-2 {
