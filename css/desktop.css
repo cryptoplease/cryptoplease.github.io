@@ -58,7 +58,6 @@
 .desktop .header {
   align-items: center;
   display: flex;
-  height: 69px;
   margin-top: 28px;
   max-width: 1376px;
   width: 100%;
@@ -77,7 +76,6 @@
 .desktop .logo-tablet {
   align-self: flex-start;
   flex-grow: 1;
-  margin-left: 50px;
 }
 
 .desktop .asset-22x-copy {
@@ -1617,6 +1615,7 @@
 
 
 /* MEDIA QUERY */
+/* LESS THAN 767px */
 
 @media screen and (max-width: 767px) {
   .desktop .flex-row {
@@ -1625,26 +1624,30 @@
     max-width: 500px;
   }
 
+  .desktop .header {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .desktop .pay-with-crypto {
+    flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
   .desktop .header-menu {
     display: none;
   }
 
   .desktop .flex-col {
     width: 100%;
-    max-width: 280px;
-  }
-
-  .desktop .logo-tablet {
-    margin-left: 30px;
   }
 
   .desktop .header-menu {
     margin-right: 30px;
   }
 
-  .desktop .pay-with-crypto {
-    flex-direction: column;
-  }
+
 
   .desktop .scan-qr {
     display: none;
@@ -1884,6 +1887,10 @@
 
 }
 
+/* MEDIA QUERY */
+/* BETWEEN 768px and 1023px */
+
+
 @media screen and (min-width: 768px) and (max-width: 1023px) {
 
 
@@ -2003,7 +2010,5 @@
   .desktop .phone-investments {
     height: 616px;
   }
-
-
 
 }
