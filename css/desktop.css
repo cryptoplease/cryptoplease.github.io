@@ -62,6 +62,8 @@
   max-width: 1376px;
   width: 100%;
   justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .header-menu {
