@@ -816,12 +816,10 @@
 
 .desktop .send-and-receive-mon {
   letter-spacing: 0.65px;
-  line-height: 53px;
 }
 
 .desktop .espressos-patented {
   letter-spacing: 0.27px;
-  line-height: 26px;
   margin-top: 20px;
 }
 
@@ -1734,11 +1732,23 @@
   }
 
   .desktop .section-title {
-    font-size: 42px;
+    font-size: 37px;
+    line-height: normal;
+  }
+
+  .desktop .send-and-receive-mon {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .desktop .espressos-patented {
+    font-size: 16px;
   }
 
   .desktop .secure-link-graphic-1 {
-    width: 310px;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .desktop .send-receive-1 {
