@@ -354,6 +354,8 @@
   margin: auto;
   background-image: url(../img/oval.svg);
   position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .desktop .highlight-img1 {
@@ -1694,20 +1696,33 @@
     margin-top: 50px;
   }
 
+  .desktop .overlap-group-global {
+    height: 94px;
+    width: 95px;
+  }
+
   .desktop .highlight-img1 {
-    width: 123px;
+    width: 95px;
+    bottom: 8px;
+    left: -12px;
   }
 
   .desktop .highlight-img2 {
-    width: 159px;
+    width: 125px;
+    bottom: 8px;
+    left: -42px;
   }
 
   .desktop .highlight-img3 {
-    width: 149px;
+    width: 116px;
+    bottom: 8px;
+    left: -32px;
   }
 
   .desktop .highlight-img4 {
-    width: 125px;
+    width: 95px;
+    bottom: 8px;
+    left: -13px;
   }
 
   .desktop .title-hightlight {
