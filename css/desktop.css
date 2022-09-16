@@ -303,7 +303,7 @@
   justify-content: center;
 }
 
-.desktop .flex-row {
+.desktop .app-highlights-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr;
@@ -1593,7 +1593,7 @@
 /* LESS THAN 767px */
 
 @media screen and (max-width: 767px) {
-  .desktop .flex-row {
+  .desktop .app-highlights-container {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     max-width: 500px;
@@ -1909,7 +1909,7 @@
     font-size: 18px;
   }
 
-  .desktop .flex-row {
+  .desktop .app-highlights-container {
     max-width: 900px;
   }
 
