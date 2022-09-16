@@ -1658,18 +1658,9 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
 
-
   .desktop .pay-with-crypto-txt {
     width: 100%;
     min-width: 380px;
-  }
-
-  .desktop .logo-tablet {
-    margin-left: 30px;
-  }
-
-  .desktop .header-menu {
-    margin-right: 30px;
   }
 
   .desktop .pay-with-crypto-img-container {
