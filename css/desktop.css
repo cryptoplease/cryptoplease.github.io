@@ -1,4 +1,4 @@
-/* screen - desktop */
+/* CSS */
 
 .desktop {
   align-items: center;
@@ -7,6 +7,8 @@
   flex-direction: column;
   width: 100%;
 }
+
+/* CSS HEADER NOTIFICATION */
 
 .desktop .header-notification {
   align-items: center;
@@ -25,6 +27,19 @@
   align-items: center;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+/* CSS HEADER */
+
+.desktop .header {
+  align-items: center;
+  display: flex;
+  margin-top: 28px;
+  max-width: 1376px;
+  width: 100%;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .header-crypto-please-is-now {
@@ -55,15 +70,8 @@
   text-decoration: underline;
 }
 
-.desktop .header {
-  align-items: center;
-  display: flex;
-  margin-top: 28px;
-  max-width: 1376px;
-  width: 100%;
-  justify-content: space-between;
-  padding-left: 50px;
-  padding-right: 50px;
+.desktop .logo-tablet-img {
+  width: 300px;
 }
 
 .desktop .header-menu {
@@ -79,9 +87,7 @@
   flex-grow: 1;
 }
 
-.desktop .asset-22x-copy {
-  width: 300px;
-}
+
 
 .desktop .header-menu-link {
   letter-spacing: 0.41px;
@@ -1642,7 +1648,7 @@
     margin-left: 0px;
   }
 
-  .desktop .asset-22x-copy {
+  .desktop .logo-tablet-img {
     width: 246px;
   }
 
@@ -1888,7 +1894,7 @@
     padding-left: 30px;
   }
 
-  .desktop .asset-22x-copy {
+  .desktop .logo-tablet-img {
     width: 246px;
   }
 
