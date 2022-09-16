@@ -900,6 +900,7 @@
   max-width: 1456px;
   width: 100%;
   margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .desktop .overlap-group4-1 {
@@ -1119,6 +1120,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 0px 372px;
+  padding-bottom: 50px;
 }
 
 .desktop .investment-container-1 {
@@ -1270,7 +1272,6 @@
 .desktop .whether-youre-just-1 {
   margin-top: 20px;
   letter-spacing: 0.28px;
-  line-height: 21px;
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: 21px;
@@ -1284,7 +1285,6 @@
   font-size: 46px;
   font-weight: 900;
   letter-spacing: 0.65px;
-  line-height: 52.5px;
 }
 
 .desktop .get-espresso-2-btn {
