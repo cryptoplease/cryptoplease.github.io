@@ -869,7 +869,7 @@
   margin-top: 150px;
   position: relative;
   width: 100%;
-  max-width: 514px;
+  text-align: center;
 }
 
 .desktop .title {
@@ -912,6 +912,7 @@
   opacity: 0;
   transform: translate(-25px, 0);
   white-space: nowrap;
+  position: relative;
 }
 
 .desktop .but-first-1.animate-enter1 {
@@ -1552,6 +1553,10 @@
   .desktop .phone-investments-img {
     display: block;
     margin: 0px auto;
+  }
+
+  .desktop .but-first-1 {
+    left: -60px;
   }
 
   .desktop .flex-col-10 {
