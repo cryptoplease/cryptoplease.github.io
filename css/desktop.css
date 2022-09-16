@@ -303,6 +303,8 @@
   }
 }
 
+/* CSS APP HIGHTLIHT SECTION */
+
 .desktop .app-highlights {
   align-items: center;
   display: flex;
@@ -393,75 +395,6 @@
   position: absolute;
   top: 92px;
   width: 133px;
-}
-
-.desktop .group-12 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  left: 0;
-  min-height: 215px;
-  position: absolute;
-  top: 0;
-  width: 133px;
-}
-
-.desktop .copy-container {
-  align-items: flex-end;
-  display: flex;
-  height: 21px;
-  margin-right: 8.08px;
-  min-width: 39px;
-}
-
-.desktop .fill-6-copy {
-  height: 13px;
-  width: 9px;
-}
-
-.desktop .fill-8-copy {
-  align-self: flex-start;
-  height: 17px;
-  margin-left: 6px;
-  width: 6px;
-}
-
-.desktop .fill-10-copy {
-  height: 10px;
-  margin-bottom: 0.9px;
-  margin-left: 7px;
-  width: 10px;
-}
-
-.desktop .fill-container {
-  height: 191px;
-  margin-top: 4px;
-  position: relative;
-  width: 133px;
-}
-
-.desktop .fill-1 {
-  height: 133px;
-  left: 0;
-  position: absolute;
-  top: 58px;
-  width: 133px;
-}
-
-.desktop .fill-1-copy {
-  height: 191px;
-  left: 10px;
-  position: absolute;
-  top: 0;
-  width: 111px;
-}
-
-.desktop .fill-4-copy {
-  height: 31px;
-  left: 59px;
-  position: absolute;
-  top: 37px;
-  width: 22px;
 }
 
 .desktop .place {
