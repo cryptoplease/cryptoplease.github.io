@@ -895,7 +895,7 @@
 }
 
 .desktop .but-first {
-  margin-top: 150px;
+  margin-top: 230px;
   position: relative;
   width: 100%;
   text-align: center;
@@ -942,6 +942,7 @@
   transform: translate(-25px, 0);
   white-space: nowrap;
   position: relative;
+  left: -185px;
 }
 
 .desktop .but-first-1.animate-enter1 {
@@ -1020,6 +1021,7 @@
   font-size: 21px;
   font-style: normal;
   font-weight: 500;
+  max-width: 500px;
 }
 
 .desktop .manage-your-crypto-a {
@@ -1028,12 +1030,11 @@
   font-size: 46px;
   font-weight: 900;
   letter-spacing: 0.65px;
-
+  max-width: 500px;
 }
 
 .desktop .send-receive-title {
   line-height: 53px;
-  max-width: 500px;
 }
 
 .desktop .get-espresso-2-btn {
@@ -1072,6 +1073,7 @@
   padding: 13px 22px;
   position: relative;
   margin-top: 30px;
+  margin-bottom: 150px;
 }
 
 .desktop .asset-32x-1 {
@@ -1472,7 +1474,6 @@
 
   .desktop .send-receive-title {
     font-size: 38px;
-    max-width: none;
   }
 
   .desktop .send-receive-content {
@@ -1587,8 +1588,13 @@
     text-align: center;
   }
 
+  .desktop .manage-your-crypto-a {
+    max-width: none;
+  }
+
   .desktop .whether-youre-just-1 {
     text-align: center;
+    max-width: none;
   }
 
 
@@ -1721,7 +1727,6 @@
 
   .desktop .send-receive-title {
     font-size: 44px;
-    max-width: none;
   }
 
   .desktop .send-and-receive-mon {
