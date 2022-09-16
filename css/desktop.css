@@ -151,6 +151,8 @@
   top: 17px;
 }
 
+/* CSS PAY WITH CRYPTO SECTION */
+
 .desktop .pay-with-crypto {
   display: flex;
   align-items: flex-start;
@@ -276,13 +278,13 @@
 }
 
 
-.desktop .group-13 {
+.desktop .pay-with-crypto-img {
   opacity: 0;
   transform: translate(0, 25px);
   width: 100%;
 }
 
-.desktop .group-13.animate-enter13 {
+.desktop .pay-with-crypto-img.animate-enter13 {
   animation: animate-enter13-frames 0.90s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
