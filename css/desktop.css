@@ -323,6 +323,8 @@
   margin-top: 200px;
   width: 100%;
   justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .app-highlights-container {
@@ -571,6 +573,8 @@
   width: 100%;
   position: relative;
   max-width: 1224px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .overlap-group-container {
@@ -623,7 +627,6 @@
 
 .desktop .secure-link-graphic-1 {
   display: block;
-  left: 50px;
   opacity: 0;
   position: absolute;
   top: 0;
