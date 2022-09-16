@@ -511,6 +511,20 @@
   max-width: 200px;
 }
 
+.desktop .invest {
+  letter-spacing: 0.63px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 150px;
+}
+
+.desktop .buy-sell-and-follow {
+  letter-spacing: 0.07px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 150px;
+}
+
 .desktop .hightlight-title {
   margin-top: 50px;
 }
@@ -550,19 +564,7 @@
   }
 }
 
-.desktop .invest {
-  letter-spacing: 0.63px;
-  margin-top: 20px;
-  width: 100%;
-  max-width: 150px;
-}
 
-.desktop .buy-sell-and-follow {
-  letter-spacing: 0.07px;
-  margin-top: 20px;
-  width: 100%;
-  max-width: 150px;
-}
 
 .desktop .send-receive-1 {
   margin-top: 264px;
