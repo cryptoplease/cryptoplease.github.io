@@ -299,7 +299,7 @@
 .desktop .app-highlights {
   align-items: center;
   display: flex;
-  margin-top: 99px;
+  margin-top: 145px;
   width: 100%;
   justify-content: center;
 }
@@ -459,8 +459,7 @@
 
 .desktop .place {
   letter-spacing: 0.63px;
-  line-height: 46px;
-  margin-top: 52px;
+  margin-top: 20px;
   width: 100%;
   max-width: 150px;
 }
@@ -570,8 +569,7 @@
 
 .desktop .pay {
   letter-spacing: 0.63px;
-  line-height: 46px;
-  margin-top: 52px;
+  margin-top: 20px;
   width: 100%;
   max-width: 180px;
 }
@@ -684,8 +682,7 @@
 
 .desktop .name {
   letter-spacing: 0.63px;
-  line-height: 46px;
-  margin-top: 52px;
+  margin-top: 20px;
   width: 100%;
   max-width: 200px;
   margin-left: 40px;
@@ -769,8 +766,7 @@
 
 .desktop .invest {
   letter-spacing: 0.63px;
-  line-height: 46px;
-  margin-top: 52px;
+  margin-top: 20px;
   width: 100%;
   max-width: 175px;
 }
@@ -1630,6 +1626,7 @@
     flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
+    margin-top: 50px;
   }
 
   .desktop .get-espresso-1-btn-1 {
@@ -1658,7 +1655,7 @@
 
   .desktop .pay-with-crypto-img-container {
     max-width: 380px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
 
   .desktop .asset-22x-copy {
