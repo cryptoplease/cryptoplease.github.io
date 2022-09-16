@@ -710,7 +710,7 @@
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: 96px;
-  font-weight: 700;
+  font-weight: 900;
   letter-spacing: 1.71px;
   line-height: 93.5px;
   margin-top: 150px;
@@ -722,10 +722,9 @@
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: 36px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 0.53px;
   line-height: 41.5px;
-  margin-right: 13.0px;
   margin-top: 29px;
   min-height: 125px;
   text-align: center;
@@ -1510,8 +1509,8 @@
 
 
   .desktop .grey-frame {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 0px;
     border-radius: 100px;
     padding-bottom: 60px;
