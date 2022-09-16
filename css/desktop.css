@@ -468,6 +468,7 @@
   letter-spacing: 0.07px;
   margin-top: 20px;
   max-width: 150px;
+  min-height: 141px;
 }
 
 .desktop .flex-col-2 {
@@ -1713,7 +1714,7 @@
     left: -13px;
   }
 
-  .desktop .title-hightlight {
+  .desktop .hightlight-title {
     font-size: 33px;
   }
 
@@ -1944,7 +1945,7 @@
     width: 125px;
   }
 
-  .desktop .title-hightlight {
+  .desktop .hightlight-title {
     font-size: 38px;
   }
 
