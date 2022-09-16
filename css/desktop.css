@@ -415,7 +415,7 @@
 .desktop .instantly-transfer-m {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  min-height: 141px;
+  min-height: 180px;
 }
 
 .desktop .flex-col-2 {
@@ -1480,12 +1480,13 @@
 
   .desktop .hightlight-title {
     font-size: 33px;
-    max-width: 150px;
+    max-width: 142px;
   }
 
   .desktop .hightlight-content {
     font-size: 16px;
-    max-width: 150px;
+    max-width: 142px;
+    line-height: 19px;
   }
 
   .desktop .section-content {
@@ -1493,15 +1494,17 @@
   }
 
   .desktop .send-receive-title {
-    font-size: 37px;
+    font-size: 38px;
   }
 
-  .desktop .espressos-patented {
+  .desktop .send-receive-content {
     font-size: 16px;
+    line-height: 19px;
   }
 
   .desktop .secure-link-graphic-1 {
     width: 100%;
+    max-width: 250px;
   }
 
   .desktop .send-receive-1 {
@@ -1526,7 +1529,7 @@
   .desktop .secure-link-graphic-1 {
     position: static;
     margin: 0px;
-    margin-top: 80px;
+    margin-top: 50px;
   }
 
   .desktop .secure-link-graphic-2 {
@@ -1563,9 +1566,9 @@
   }
 
   .desktop .send-receive-globa {
-    font-size: 61px;
+    font-size: 45px;
     margin-top: 80px;
-    line-height: 64px;
+    line-height: 47px;
     min-width: 300px;
   }
 
@@ -1574,16 +1577,16 @@
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 0px;
-    border-radius: 180px;
+    border-radius: 100px;
     padding-bottom: 60px;
   }
 
   .desktop .send-or-receive-mone {
-    font-size: 27px;
+    font-size: 22px;
     max-width: 480px;
-    line-height: 32px;
-    padding-left: 20px;
-    padding-right: 20px;
+    line-height: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 
   .desktop .whether-youre-just-1 {
