@@ -8,7 +8,9 @@
   width: 100%;
 }
 
+/* ----------------------- */
 /* CSS HEADER NOTIFICATION */
+/* ----------------------- */
 
 .desktop .header-notification {
   align-items: center;
@@ -29,7 +31,9 @@
   padding-right: 20px;
 }
 
+/* ----------------------- */
 /* CSS HEADER */
+/* ----------------------- */
 
 .desktop .header {
   align-items: center;
@@ -151,7 +155,9 @@
   top: 17px;
 }
 
+/* ----------------------- */
 /* CSS PAY WITH CRYPTO SECTION */
+/* ----------------------- */
 
 .desktop .pay-with-crypto {
   display: flex;
@@ -303,7 +309,9 @@
   }
 }
 
+/* ----------------------- */
 /* CSS APP HIGHTLIHT SECTION */
+/* ----------------------- */
 
 .desktop .app-highlights {
   align-items: center;
