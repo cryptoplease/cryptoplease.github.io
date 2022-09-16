@@ -1129,15 +1129,6 @@
   position: relative;
 }
 
-.desktop .overlap-group3-1 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  padding-top: 197px;
-  width: 100%;
-  padding-bottom: 100px;
-}
-
 .desktop .investment-graphic {
   left: 0;
   position: absolute;
@@ -1816,10 +1807,6 @@
     max-width: 300px;
   }
 
-  .desktop .overlap-group3-1 {
-    padding-top: 50px;
-  }
-
   .desktop .flex-row-1 {
     margin-top: 50px;
 
@@ -1978,10 +1965,6 @@
   .desktop .send-or-receive-mone {
     font-size: 27px;
     max-width: 597px;
-  }
-
-  .desktop .overlap-group3-1 {
-    padding-top: 50px;
   }
 
   .desktop .flex-row-1 {
