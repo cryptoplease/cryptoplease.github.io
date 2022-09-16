@@ -1363,9 +1363,10 @@
   width: 100%;
 }
 
-
 /* MEDIA QUERY */
+/* ----------------------- */
 /* LESS THAN 767px */
+/* ----------------------- */
 
 @media screen and (max-width: 767px) {
   .desktop .app-highlights-container {
@@ -1637,8 +1638,9 @@
 
 }
 
-/* MEDIA QUERY */
+/* ----------------------- */
 /* BETWEEN 768px and 1023px */
+/* ----------------------- */
 
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
