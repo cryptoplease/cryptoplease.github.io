@@ -1739,6 +1739,14 @@
     max-width: 830px;
   }
 
+  .desktop .manage-your-crypto-a {
+    max-width: 480px;
+  }
+
+  .desktop .whether-youre-just-1 {
+    max-width: 434px;
+  }
+
   .desktop .phone {
     width: 605px;
   }
