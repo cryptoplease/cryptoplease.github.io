@@ -737,7 +737,6 @@
   align-items: flex-start;
   display: flex;
   height: 119px;
-  margin-left: 6.64px;
   margin-top: 73px;
 }
 
@@ -746,14 +745,12 @@
   display: flex;
   flex-direction: column;
   min-height: 119px;
-  width: 126px;
 }
 
 .desktop .x0 {
   height: 64px;
   opacity: 0;
   transform: scale(1.1);
-  width: 126px;
 }
 
 .desktop .x0.animate-enter6 {
@@ -793,9 +790,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 166px;
   min-height: 119px;
-  width: 132px;
 }
 
 .desktop .x0-1 {
@@ -1578,10 +1573,6 @@
   .desktop .footer-container {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-  }
-
-  .desktop .flex-col-6 {
-    margin-left: 50px;
   }
 
   .desktop .follow-flex {
