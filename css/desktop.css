@@ -155,7 +155,7 @@
   width: 100%;
 }
 
-.desktop .flex-col {
+.desktop .pay-with-crypto-txt {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -1628,11 +1628,11 @@
     margin-top: 50px;
   }
 
-  .desktop.scan-qr {
+  .desktop .scan-qr {
     display: none;
   }
 
-  .desktop .flex-col {
+  .desktop .pay-with-crypto-txt {
     width: 100%;
   }
 
@@ -1869,7 +1869,7 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
 
 
-  .desktop .flex-col {
+  .desktop .pay-with-crypto-txt {
     width: 100%;
     min-width: 380px;
   }
