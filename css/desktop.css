@@ -1357,6 +1357,8 @@
   .desktop .header {
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
     background-color: white;
   }
 
@@ -1381,7 +1383,7 @@
     flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: 0px;
+    margin-top: 73px;
   }
 
   .desktop .scan-qr {
@@ -1558,6 +1560,10 @@
   .desktop .send-globally-container {
     background-position: 23% center;
     background-size: cover;
+  }
+
+  .desktop .spacer {
+    width: 30px;
   }
 
 
