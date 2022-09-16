@@ -19,16 +19,16 @@
   height: 52px;
   width: 100%;
   justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .desktop .header-message {
   display: flex;
-  max-width: 1240px;
+  max-width: 1260px;
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 /* ----------------------- */
@@ -39,7 +39,7 @@
   align-items: center;
   display: flex;
   padding-top: 28px;
-  padding-bottom: 28px;
+  padding-bottom: 0px;
   max-width: 1376px;
   width: 100%;
   justify-content: space-between;
@@ -53,12 +53,13 @@
   font-size: var(--font-size-xs);
   font-weight: 500;
   letter-spacing: 0.41px;
-  min-height: 16px;
-  width: 326px;
+  max-width: 326px;
 }
 
 .desktop .header-close {
   width: 15px;
+  position: relative;
+  top: 2px;
 }
 
 .desktop .close {
@@ -185,6 +186,7 @@
   font-weight: 900;
   letter-spacing: 1.08px;
   line-height: 74px;
+  margin-top: 60px;
 }
 
 .desktop .the-future-of-paymen {
@@ -1343,7 +1345,7 @@
     flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: 50px;
+    margin-top: 0px;
   }
 
   .desktop .scan-qr {
@@ -1379,6 +1381,7 @@
     font-size: 38px;
     line-height: 37px;
     text-align: center;
+    margin-top: 0px;
   }
 
   .desktop .scan-to-download-the {
@@ -1646,6 +1649,7 @@
   .desktop .an-easy-fast-secu {
     font-size: 59px;
     line-height: 56px;
+    margin-top: 0px;
   }
 
   .desktop .the-future-of-paymen {
