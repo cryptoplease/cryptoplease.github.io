@@ -170,6 +170,7 @@
   padding-right: 50px;
   max-width: 1376px;
   width: 100%;
+  justify-content: space-between;
 }
 
 .desktop .pay-with-crypto-txt {
@@ -1660,11 +1661,10 @@
 
   .desktop .pay-with-crypto-txt {
     width: 100%;
-    min-width: 380px;
+    max-width: 380px;
   }
 
   .desktop .pay-with-crypto-img-container {
-    max-width: 380px;
     padding-left: 30px;
     padding-left: 30px;
   }
@@ -1685,10 +1685,12 @@
     font-size: 59px;
     line-height: 56px;
     margin-top: 0px;
+    max-width: 410px;
   }
 
   .desktop .the-future-of-paymen {
     font-size: 18px;
+    max-width: 410px;
   }
 
   .desktop .app-highlights-container {
