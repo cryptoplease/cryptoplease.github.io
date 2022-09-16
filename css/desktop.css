@@ -1397,7 +1397,7 @@
 
   .desktop .pay-with-crypto-img-container {
     max-width: 380px;
-    margin-left: 0px;
+    margin: 0px auto;
   }
 
   .desktop .logo-tablet-img {
