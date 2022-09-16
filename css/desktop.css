@@ -1354,7 +1354,7 @@
   padding-right: 50px;
 }
 
-.desktop .flex-row-2 {
+.desktop .footer-container {
   display: grid;
   margin-top: 47px;
   width: 100%;
@@ -1837,7 +1837,7 @@
     margin-top: 50px;
   }
 
-  .desktop .flex-row-2 {
+  .desktop .footer-container {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
   }
