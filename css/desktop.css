@@ -685,15 +685,13 @@
   letter-spacing: 0.63px;
   margin-top: 20px;
   width: 100%;
-  max-width: 200px;
-  margin-left: 40px;
+  max-width: 150px;
 }
 
 .desktop .transfer-money-as-us {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  max-width: 200px;
-  margin-left: 40px;
+  max-width: 150px;
   width: 100%;
 }
 
@@ -1716,6 +1714,10 @@
 
   .desktop .hightlight-title {
     font-size: 33px;
+  }
+
+  .desktop .hightlight-content {
+    font-size: 16px;
   }
 
   .desktop .section-content {
