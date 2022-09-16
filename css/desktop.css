@@ -866,12 +866,7 @@
 }
 
 .desktop .but-first {
-  align-items: flex-start;
-  display: flex;
   margin-top: 150px;
-}
-
-.desktop .overlap-group-3 {
   position: relative;
   width: 100%;
   max-width: 514px;
@@ -883,7 +878,6 @@
   font-size: 100px;
   font-weight: 900;
   letter-spacing: 1.33px;
-  line-height: 74px;
   opacity: 0;
   transform: translate(25px, 0);
   white-space: nowrap;
@@ -1037,7 +1031,6 @@
   background-color: var(--outrageous-orange);
   border-radius: 25px;
   display: flex;
-  height: 55px;
   min-width: 188px;
   padding: 13px 22px;
   position: relative;
