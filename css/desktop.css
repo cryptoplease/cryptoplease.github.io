@@ -460,13 +460,11 @@
   letter-spacing: 0.63px;
   margin-top: 20px;
   width: 100%;
-  max-width: 150px;
 }
 
 .desktop .instantly-transfer-m {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  max-width: 150px;
   min-height: 141px;
 }
 
@@ -571,13 +569,11 @@
   letter-spacing: 0.63px;
   margin-top: 20px;
   width: 100%;
-  max-width: 180px;
 }
 
 .desktop .pay-and-accept-money {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  max-width: 180px;
   width: 100%;
 }
 
@@ -684,13 +680,11 @@
   letter-spacing: 0.63px;
   margin-top: 20px;
   width: 100%;
-  max-width: 150px;
 }
 
 .desktop .transfer-money-as-us {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  max-width: 150px;
   width: 100%;
 }
 
@@ -766,13 +760,11 @@
   letter-spacing: 0.63px;
   margin-top: 20px;
   width: 100%;
-  max-width: 175px;
 }
 
 .desktop .buy-sell-and-follow {
   letter-spacing: 0.07px;
   margin-top: 20px;
-  max-width: 175px;
   width: 100%;
 }
 
@@ -1712,10 +1704,12 @@
 
   .desktop .hightlight-title {
     font-size: 33px;
+    max-width: 150px;
   }
 
   .desktop .hightlight-content {
     font-size: 16px;
+    max-width: 150px;
   }
 
   .desktop .section-content {
