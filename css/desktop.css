@@ -1604,12 +1604,7 @@
     padding-right: 30px;
   }
 
-  .desktop .pay-with-crypto {
-    flex-direction: column;
-    padding-left: 30px;
-    padding-right: 30px;
-    margin-top: 50px;
-  }
+
 
   .desktop .get-espresso-1-btn-1 {
     margin: 0px auto;
@@ -1621,21 +1616,28 @@
     display: none;
   }
 
-  .desktop .flex-col {
-    width: 100%;
-  }
 
   .desktop .header-menu {
     margin-right: 30px;
   }
 
+  .pay-with-crypto {
+    flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 50px;
+  }
 
-
-  .desktop .scan-qr {
+  .pay-with-crypto .scan-qr {
     display: none;
   }
 
-  .desktop .pay-with-crypto-img-container {
+  .pay-with-crypto .flex-col {
+    width: 100%;
+  }
+
+
+  .pay-with-crypto .pay-with-crypto-img-container {
     max-width: 380px;
     margin-left: 0px;
   }
