@@ -439,73 +439,6 @@
   }
 }
 
-.desktop .oval-1 {
-  border: 9px solid;
-  border-color: var(--sunglow);
-  border-radius: 66.29px;
-  height: 133px;
-  left: 55px;
-  position: absolute;
-  top: 37px;
-  width: 133px;
-}
-
-.desktop .fill-1-1 {
-  height: 133px;
-  left: 43px;
-  position: absolute;
-  top: 28px;
-  width: 133px;
-}
-
-.desktop .fill-container-1 {
-  height: 124px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 172px;
-}
-
-.desktop .fill-1-2 {
-  height: 81px;
-  left: 19px;
-  position: absolute;
-  top: 43px;
-  width: 153px;
-}
-
-.desktop .fill-4 {
-  height: 47px;
-  left: 16px;
-  position: absolute;
-  top: 6px;
-  width: 47px;
-}
-
-.desktop .fill-6 {
-  height: 30px;
-  left: 31px;
-  position: absolute;
-  top: 14px;
-  width: 15px;
-}
-
-.desktop .fill-8 {
-  height: 9px;
-  left: 12px;
-  position: absolute;
-  top: 0;
-  width: 11px;
-}
-
-.desktop .fill-10 {
-  height: 12px;
-  left: 0;
-  position: absolute;
-  top: 6px;
-  width: 14px;
-}
-
 .desktop .pay {
   letter-spacing: 0.63px;
   margin-top: 20px;
@@ -548,75 +481,6 @@
   }
 }
 
-.desktop .oval-copy {
-  border: 9px solid;
-  border-color: var(--sunglow);
-  border-radius: 66.29px;
-  height: 133px;
-  left: 42px;
-  position: absolute;
-  top: 16px;
-  width: 133px;
-}
-
-.desktop .oval-copy-6 {
-  background-color: var(--thunder);
-  border-radius: 67.29px;
-  height: 135px;
-  left: 29px;
-  position: absolute;
-  top: 6px;
-  width: 135px;
-}
-
-.desktop .fill-container-2 {
-  height: 106px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 142px;
-}
-
-.desktop .fill-1-3 {
-  height: 66px;
-  left: 43px;
-  position: absolute;
-  top: 19px;
-  width: 67px;
-}
-
-.desktop .fill-2 {
-  height: 20px;
-  left: 69px;
-  position: absolute;
-  top: 42px;
-  width: 18px;
-}
-
-.desktop .fill-4-1 {
-  height: 106px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 141px;
-}
-
-.desktop .fill-6-1 {
-  height: 13px;
-  left: 123px;
-  position: absolute;
-  top: 77px;
-  width: 19px;
-}
-
-.desktop .fill-9 {
-  height: 9px;
-  left: 116px;
-  position: absolute;
-  top: 92px;
-  width: 13px;
-}
-
 .desktop .name {
   letter-spacing: 0.63px;
   margin-top: 20px;
@@ -657,44 +521,6 @@
     opacity: 1;
     transform: translate(0, 0);
   }
-}
-
-.desktop .oval-copy-2 {
-  border: 9px solid;
-  border-color: var(--sunglow);
-  border-radius: 66.29px;
-  height: 133px;
-  left: 13px;
-  position: absolute;
-  top: 42px;
-  width: 133px;
-}
-
-.desktop .fill-1-4 {
-  height: 133px;
-  left: 0;
-  position: absolute;
-  top: 32px;
-  width: 133px;
-}
-
-.desktop .group-6 {
-  align-items: flex-start;
-  background-image: url(../img/fill-1-5@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 164px;
-  justify-content: flex-end;
-  left: 2px;
-  min-width: 131px;
-  padding: 26.9px 41.3px;
-  position: absolute;
-  top: 0;
-}
-
-.desktop .fill-4-2 {
-  height: 24px;
-  width: 29px;
 }
 
 .desktop .invest {
