@@ -726,7 +726,7 @@
   max-width: 1123px;
   border-radius: 230px;
   align-items: center;
-  padding-bottom: 80px;
+  padding-bottom: 127px;
   margin-left: 50px;
   margin-right: 50px;
   margin-top: 184px;
@@ -741,7 +741,7 @@
   letter-spacing: 1.71px;
   line-height: 93.5px;
   margin-top: 150px;
-  max-width: 693px;
+  max-width: 710px;
   text-align: center;
 }
 
@@ -804,8 +804,7 @@
   font-weight: 500;
   letter-spacing: 0.29px;
   line-height: 26px;
-  margin-left: 10.27px;
-  margin-top: 29px;
+  margin-top: 40px;
   min-height: 26px;
   min-width: 105px;
   text-align: center;
@@ -820,7 +819,7 @@
 }
 
 .desktop .spacer {
-  width: 20px;
+  width: 170px;
 }
 
 .desktop .x0-1 {
@@ -856,7 +855,7 @@
   font-weight: 500;
   letter-spacing: 0.29px;
   line-height: 26px;
-  margin-top: 29px;
+  margin-top: 40px;
   min-height: 26px;
   min-width: 132px;
   text-align: center;
