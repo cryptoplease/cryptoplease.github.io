@@ -793,6 +793,10 @@
   min-height: 119px;
 }
 
+.desktop .spacer {
+  width: 20px;
+}
+
 .desktop .x0-1 {
   height: 64px;
   margin-left: 0.36px;
