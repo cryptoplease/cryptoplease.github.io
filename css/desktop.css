@@ -586,6 +586,11 @@
 
 .desktop .send-and-receive-mon {
   letter-spacing: 0.65px;
+  max-width: 500px;
+}
+
+.desktop .send-receive-content {
+  line-height: 26px;
 }
 
 .desktop .espressos-patented {
@@ -1455,6 +1460,10 @@
     font-size: 16px;
   }
 
+  .desktop .send-and-receive-mon {
+    max-width: none;
+  }
+
   .desktop .send-receive-title {
     font-size: 38px;
   }
@@ -1705,6 +1714,10 @@
 
   .desktop .send-receive-title {
     font-size: 44px;
+  }
+
+  .desktop .send-and-receive-mon {
+    max-width: none;
   }
 
   .desktop .secure-link-graphic-1 {
