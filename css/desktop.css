@@ -38,7 +38,8 @@
 .desktop .header {
   align-items: center;
   display: flex;
-  margin-top: 28px;
+  padding-top: 28px;
+  padding-bottom: 28px;
   max-width: 1376px;
   width: 100%;
   justify-content: space-between;
@@ -1378,6 +1379,7 @@
   .desktop .header {
     padding-left: 30px;
     padding-right: 30px;
+    background-color: white;
   }
 
 
