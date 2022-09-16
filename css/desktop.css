@@ -780,7 +780,7 @@
   position: relative;
 }
 
-.desktop .overlap-group5 {
+.desktop .send-receive-container {
   z-index: 1;
   margin-left: 566px;
   height: 930px;
@@ -1733,7 +1733,7 @@
     padding-right: 30px;
   }
 
-  .desktop .overlap-group5 {
+  .desktop .send-receive-container {
     margin-left: 0px;
     margin-right: 0px;
     z-index: auto;
@@ -1945,7 +1945,7 @@
     width: 310px;
   }
 
-  .desktop .overlap-group5 {
+  .desktop .send-receive-container {
     margin-left: 380px;
   }
 
