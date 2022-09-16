@@ -1621,23 +1621,23 @@
     margin-right: 30px;
   }
 
-  .pay-with-crypto {
+  .desktop .pay-with-crypto {
     flex-direction: column;
     padding-left: 30px;
     padding-right: 30px;
     margin-top: 50px;
   }
 
-  .pay-with-crypto .scan-qr {
+  .desktop.scan-qr {
     display: none;
   }
 
-  .pay-with-crypto .flex-col {
+  .desktop .flex-col {
     width: 100%;
   }
 
 
-  .pay-with-crypto .pay-with-crypto-img-container {
+  .desktop .pay-with-crypto-img-container {
     max-width: 380px;
     margin-left: 0px;
   }
