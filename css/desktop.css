@@ -774,52 +774,6 @@
   }
 }
 
-.desktop .price-container {
-  height: 64px;
-  left: 15px;
-  position: relative;
-  top: 0ppx;
-  width: 98px;
-}
-
-.desktop .price {
-  color: var(--sunglow);
-  font-family: var(--font-family-roboto);
-  font-size: 76px;
-  font-weight: 700;
-  left: 8px;
-  letter-spacing: 1.35px;
-  line-height: 53px;
-  position: absolute;
-  text-align: center;
-  top: 11px;
-  white-space: nowrap;
-}
-
-.desktop .price-1 {
-  color: var(--thunder);
-  font-family: var(--font-family-roboto);
-  font-size: 76px;
-  font-weight: 700;
-  left: 6px;
-  letter-spacing: 1.35px;
-  line-height: 53px;
-  position: absolute;
-  text-align: center;
-  top: 2px;
-  white-space: nowrap;
-}
-
-.desktop .price-2 {
-  left: 0;
-  letter-spacing: 1.35px;
-  line-height: 53px;
-  position: absolute;
-  text-align: center;
-  top: 0;
-  white-space: nowrap;
-}
-
 .desktop .to-sign-up {
   color: var(--white);
   font-family: var(--font-family-roboto);
