@@ -949,7 +949,7 @@
   position: relative;
 }
 
-.desktop .bitmap {
+.desktop .phone-investments-img {
   height: 100%;
 }
 
@@ -1537,9 +1537,7 @@
     padding-right: 40px;
   }
 
-  .desktop .whether-youre-just-1 {
-    max-width: 300px;
-  }
+
 
   .desktop .flex-row-1 {
     margin-top: 50px;
@@ -1550,14 +1548,24 @@
     flex-direction: column;
   }
 
-  .desktop .scan-to-download-the-1 {
-    font-size: 23px;
-    padding-right: 0px;
-    padding-left: 0px;
+  .desktop .investments-text {
+    text-align: center;
   }
+
+  .desktop .whether-youre-just-1 {
+    max-width: 300px;
+    text-align: center;
+  }
+
+
 
   .desktop .phone-investments {
     height: 528px;
+  }
+
+  .desktop .phone-investments-img {
+    display: block;
+    margin: 0px auto;
   }
 
   .desktop .flex-col-10 {
@@ -1572,6 +1580,12 @@
   .desktop .footer-container {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+  }
+
+  .desktop .scan-to-download-the-1 {
+    font-size: 23px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
   .desktop .follow-flex {
