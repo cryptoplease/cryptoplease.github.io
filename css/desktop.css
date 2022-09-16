@@ -1507,6 +1507,11 @@
     min-width: 300px;
   }
 
+  .desktop .send-globally-container {
+    background-position: 23% center;
+    background-size: cover;
+  }
+
 
   .desktop .grey-frame {
     margin-left: 20px;
