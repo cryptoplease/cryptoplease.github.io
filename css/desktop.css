@@ -1732,6 +1732,11 @@
     font-size: 38px;
   }
 
+  .desktop .hightlight-content {
+    font-size: 18px;
+    line-height: 23.5px;
+  }
+
   .desktop .section-content {
     font-size: 21px;
   }
