@@ -1700,23 +1700,32 @@
   }
 
   .desktop .app-highlights-container {
-    max-width: 900px;
+    max-width: 920px;
+  }
+
+  .desktop .overlap-group-global {
+    height: 113px;
+    width: 112px;
   }
 
   .desktop .highlight-img1 {
-    width: 123px;
+    width: 113px;
+    left: -11px;
   }
 
   .desktop .highlight-img2 {
-    width: 159px;
+    width: 149px;
+    left: -48px;
   }
 
   .desktop .highlight-img3 {
-    width: 149px;
+    width: 138px;
+    left: -36px;
   }
 
   .desktop .highlight-img4 {
-    width: 125px;
+    width: 114px;
+    left: -11px;
   }
 
   .desktop .hightlight-title {
