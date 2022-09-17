@@ -1708,6 +1708,23 @@
     width: 112px;
   }
 
+  .desktop .place {
+    max-width: 134px;
+  }
+
+  .desktop .instantly-transfer-m {
+    max-width: 134px;
+  }
+
+  .desktop .pay {
+    max-width: 134px;
+  }
+
+  .desktop .pay-and-accept-money {
+    max-width: 134px;
+  }
+
+
   .desktop .highlight-img1 {
     width: 113px;
     left: -11px;
@@ -1718,9 +1735,25 @@
     left: -48px;
   }
 
+  .desktop .name {
+    max-width: 180px;
+  }
+
+  .desktop .transfer-money-as-us {
+    max-width: 180px;
+  }
+
   .desktop .highlight-img3 {
     width: 138px;
     left: -36px;
+  }
+
+  .desktop .invest {
+    max-width: 134px;
+  }
+
+  .desktop .buy-sell-and-follow {
+    max-width: 134px;
   }
 
   .desktop .highlight-img4 {
@@ -1754,7 +1787,7 @@
   }
 
   .desktop .send-receive-container {
-    margin-left: 380px;
+    margin-left: 360px;
   }
 
   .desktop .investment-container-1 {
