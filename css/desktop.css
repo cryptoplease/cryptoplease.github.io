@@ -1384,6 +1384,7 @@
     padding-left: 30px;
     padding-right: 30px;
     margin-top: 73px;
+    align-items: center;
   }
 
   .desktop .scan-qr {
@@ -1392,12 +1393,13 @@
 
   .desktop .pay-with-crypto-txt {
     width: 100%;
+    max-width: 400px;
   }
 
 
   .desktop .pay-with-crypto-img-container {
     max-width: 380px;
-    margin: 0px auto;
+    margin-left: 0px;
   }
 
   .desktop .logo-tablet-img {
