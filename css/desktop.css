@@ -1393,7 +1393,7 @@
 
   .desktop .pay-with-crypto-txt {
     width: 100%;
-    max-width: 400px;
+    max-width: 350px;
   }
 
 
@@ -1482,16 +1482,16 @@
 
   .desktop .send-receive-title {
     font-size: 38px;
+    line-height: 37px;
   }
 
   .desktop .send-receive-content {
-    font-size: 16px;
-    line-height: 19px;
+    font-size: 21px;
+    line-height: 21px;
   }
 
   .desktop .secure-link-graphic-1 {
     width: 100%;
-    max-width: 250px;
   }
 
   .desktop .send-receive-1 {
@@ -1502,6 +1502,7 @@
     align-items: center;
     padding-left: 30px;
     padding-right: 30px;
+    max-width: 450px;
   }
 
   .desktop .send-receive-container {
@@ -1592,12 +1593,16 @@
 
   }
 
+
+
   .desktop .investment-container-1 {
     flex-direction: column;
+    max-width: 358px;
   }
 
   .desktop .investments-text {
     text-align: center;
+    margin-top: 00px;
   }
 
   .desktop .manage-your-crypto-a {
@@ -1620,8 +1625,13 @@
     margin: 0px auto;
   }
 
+  .desktop .but-first {
+    margin-top: 100px;
+  }
+
   .desktop .but-first-1 {
     left: -60px;
+
   }
 
   .desktop .flex-col-10 {
