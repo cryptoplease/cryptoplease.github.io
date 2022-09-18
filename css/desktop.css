@@ -1487,7 +1487,7 @@
 
   .desktop .send-receive-content {
     font-size: 21px;
-    line-height: 21px;
+    line-height: 26px;
   }
 
   .desktop .secure-link-graphic-1 {
@@ -1618,6 +1618,7 @@
 
   .desktop .phone-investments {
     height: 528px;
+    margin-top: 150px;
   }
 
   .desktop .phone-investments-img {
