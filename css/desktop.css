@@ -1348,6 +1348,11 @@
 /* ----------------------- */
 
 @media screen and (max-width: 767px) {
+  .desktop .app-highlights {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .desktop .app-highlights-container {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
