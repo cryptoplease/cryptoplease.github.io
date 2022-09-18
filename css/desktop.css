@@ -1617,6 +1617,8 @@
   .desktop .whether-youre-just-1 {
     text-align: center;
     max-width: none;
+    font-size: 22px;
+    line-height: 25px;
   }
 
 
