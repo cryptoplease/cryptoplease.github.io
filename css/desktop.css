@@ -1113,7 +1113,7 @@
   margin-top: 47px;
   width: 100%;
   justify-content: space-between;
-  grid-template-columns: 3fr 3fr 2fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   max-width: 1242px;
 }
@@ -1175,15 +1175,14 @@
 .desktop .scan-to-download-the-1 {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
+  font-size: 23px;
   font-weight: 900;
   letter-spacing: 0.35px;
   line-height: 28px;
   width: 100%;
   position: relative;
+  max-width: 288px;
   justify-self: center;
-  padding-left: 10px;
-  padding-right: 20px;
 }
 
 .desktop .qr-code-1 {
