@@ -1140,15 +1140,14 @@
 
 .desktop .header-link {
   letter-spacing: 0.20px;
-  min-height: 18px;
-  margin-bottom: 8px;
+  line-height: 26px;
 }
 
 .desktop .flex-col-9 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 25px;
+  margin-left: 69px;
   min-height: 94px;
 }
 
