@@ -1040,6 +1040,7 @@
   color: var(--white);
   font-family: var(--font-family-roboto);
   font-size: 21px;
+  line-height: 26px;
   font-style: normal;
   font-weight: 500;
   max-width: 500px;
