@@ -1942,4 +1942,12 @@
     margin-top: 170px;
   }
 
+  .desktop .pay-with-crypto {
+    flex-direction: row;
+  }
+
+  .desktop .an-easy-fast-secu {
+    text-align: left;
+  }
+
 }
