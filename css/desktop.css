@@ -784,7 +784,6 @@
 .desktop .flex-row-1 {
   align-items: flex-start;
   display: flex;
-  height: 119px;
   margin-top: 73px;
 }
 
@@ -1606,7 +1605,7 @@
 
 
   .desktop .flex-row-1 {
-    margin-top: 50px;
+    margin-top: 7px;
 
   }
 
