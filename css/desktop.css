@@ -1610,7 +1610,9 @@
 
   }
 
-
+  .desktop .investments {
+    background-position: 0px 517px;
+  }
 
   .desktop .investment-container-1 {
     flex-direction: column;
@@ -1637,7 +1639,7 @@
 
   .desktop .phone-investments {
     height: 528px;
-    margin-top: 150px;
+    margin-top: 15px;
   }
 
   .desktop .phone-investments-img {
