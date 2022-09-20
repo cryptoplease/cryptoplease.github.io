@@ -1892,3 +1892,20 @@
   }
 
 }
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+  .desktop .footer-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .desktop .flex-col-9 {
+    margin-left: 30px;
+    margin-right: 10px;
+  }
+
+  .desktop .scan-to-download-the-1 {
+    margin-top: 0px;
+  }
+
+}
