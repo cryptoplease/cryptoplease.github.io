@@ -1118,13 +1118,6 @@
   max-width: 1242px;
 }
 
-.desktop .flex-col-7 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
 .desktop .flex-row-3 {
   align-items: flex-start;
   display: flex;
@@ -1640,7 +1633,6 @@
   }
 
   .desktop .flex-col-10 {
-    width: 100%;
     margin-left: 0px;
   }
 
@@ -1657,11 +1649,15 @@
     font-size: 23px;
     padding-right: 0px;
     padding-left: 0px;
+    max-width: 303px;
+    margin-top: 30px;
   }
 
   .desktop .follow-flex {
     margin-top: 20px;
     align-items: flex-start;
+    max-width: 320px;
+    margin: 0px auto;
   }
 
   .desktop .title {
@@ -1671,6 +1667,11 @@
   .desktop .footer {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .desktop .flex-col-7 {
+    margin: 0px auto;
+    max-width: 300px;
   }
 
 }
