@@ -1950,4 +1950,15 @@
     text-align: left;
   }
 
+  .desktop .hightlight-title {
+    font-size: 38px;
+    max-width: 162px;
+  }
+
+  .desktop .hightlight-content {
+    font-size: 18px;
+    max-width: 162px;
+    line-height: 20px;
+  }
+
 }
