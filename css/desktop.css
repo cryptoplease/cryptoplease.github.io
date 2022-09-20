@@ -1908,4 +1908,13 @@
     margin-top: 0px;
   }
 
+  .desktop .flex-col-10 {
+    grid-column: span 2;
+  }
+
+  .desktop .follow-flex {
+    max-width: 176px;
+    margin-top: 80px;
+  }
+
 }
