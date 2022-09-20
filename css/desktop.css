@@ -1990,4 +1990,8 @@
     left: -13px;
   }
 
+  .desktop .app-highlights-container {
+    max-width: 650px;
+  }
+
 }
