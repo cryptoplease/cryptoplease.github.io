@@ -1961,4 +1961,33 @@
     line-height: 20px;
   }
 
+  .desktop .overlap-group-global {
+    height: 134px;
+    width: 133px;
+  }
+
+  .desktop .highlight-img1 {
+    width: auto;
+    bottom: 8px;
+    left: -12px;
+  }
+
+  .desktop .highlight-img2 {
+    width: auto;
+    bottom: 8px;
+    left: -56px;
+  }
+
+  .desktop .highlight-img3 {
+    width: auto;
+    bottom: 8px;
+    left: -42px;
+  }
+
+  .desktop .highlight-img4 {
+    width: auto;
+    bottom: 8px;
+    left: -13px;
+  }
+
 }
