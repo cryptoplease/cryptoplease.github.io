@@ -1496,7 +1496,7 @@
 
   .desktop .send-receive-title {
     font-size: 38px;
-    line-height: 37px;
+    line-height: 41px;
   }
 
   .desktop .send-receive-content {
@@ -1629,10 +1629,9 @@
   }
 
   .desktop .whether-youre-just-1 {
-    text-align: center;
     max-width: none;
     font-size: 22px;
-    line-height: 25px;
+    line-height: 26px;
   }
 
 
@@ -1915,6 +1914,24 @@
   .desktop .follow-flex {
     max-width: 176px;
     margin-top: 80px;
+  }
+
+  .desktop .investment-container-1 {
+    flex-direction: row;
+    max-width: none;
+  }
+
+  .desktop .investments {
+    background-position: 0px 372px;
+  }
+
+  .desktop .investments-text {
+    text-align: left;
+  }
+
+  .desktop .phone-investments {
+    height: 453px;
+    margin-left: 20px;
   }
 
 }
